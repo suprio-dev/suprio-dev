@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **suprioadhikary802@gmail.com** For Collaboration/Project o
 - 🌱 **I’m currently learning:** Javascript
 - 👯 **I’m looking to collaborate on:** Web Development & Open-Source Projects
 - 🤔 **I’m looking for help with:** Frontend Development & Responsive Design
-- 💬 **Ask me about:** HTML,CSS,TailwindCSS,Javascript & C
+- 💬 **Ask me about:** HTML, CSS, TailwindCSS, Javascript & C
 - 📫 **How to reach me:** suprioadhikary802@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love turning ideas into websites🚀 
