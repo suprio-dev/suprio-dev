@@ -95,13 +95,7 @@ Aspiring Full Stack MERN Developer • Passionate Coder • Problem Solver
 <img src="https://streak-stats.demolab.com/?user=suprio-dev&theme=react&hide_border=false"/>
 
 </p>
----
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="github-contribution-animation.svg" alt="suprio-dev's Contribution Animation">
-</p>
 ---
 
 # 🐍 Contribution Snake
