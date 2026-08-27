@@ -91,9 +91,7 @@ Aspiring Full Stack MERN Developer • Passionate Coder • Problem Solver
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=suprio-dev&theme=react&hide_border=false"/>
-
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=suprio-dev&theme=radical"/>
 </p>
 
 ---
