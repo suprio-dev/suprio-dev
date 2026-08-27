@@ -1,39 +1,175 @@
-# 💫 Hi 👋, I'm Suprio Adhikary
-**A passionate coder || Aspiring Full Stack Developer**
+<h1 align="center">Hi 👋, I'm Suprio Adhikary</h1>
 
-Email Me 👉 ✉️ **suprioadhikary802@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<h3 align="center">
+Aspiring Full Stack MERN Developer • Passionate Coder • Problem Solver
+</h3>
 
-- 🔭 **I’m currently working on:** building my professional Portfolio Website
-- 🌱 **I’m currently learning:** Javascript
-- 👯 **I’m looking to collaborate on:** Web Development & Open-Source Projects
-- 🤔 **I’m looking for help with:** Frontend Development & Responsive Design
-- 💬 **Ask me about:** HTML, CSS, TailwindCSS, Javascript & C
-- 📫 **How to reach me:** suprioadhikary802@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I love turning ideas into websites🚀 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suprioadhikary_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suprio-adhikary-7a0a263b0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/suprio_a84633) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suprioadhikary802@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=suprio-dev&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=suprio-dev&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suprio-dev&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+MERN+Developer;HTML+%7C+CSS+%7C+Tailwind+%7C+Javascript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=suprio-dev&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 💻 Aspiring Full Stack MERN Developer
+- 🌱 Currently learning **Javascript**
+- 🚀 Passionate about building responsive web applications
+- 🤖 Interested in AI Integration
+- ⚡ I love turning ideas into websites
+
+<br>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/suprioadhikary_07?igsi=YXFnZGFkc3pkdXJ6">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:suprioadhikary802@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://suprio-dev.forkfolio.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
+
+</p>
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,java,javascript" />
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github," />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=suprio-dev&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suprio-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=suprio-dev&theme=react&hide_border=false"/>
+
+</p>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="github-contribution-animation.svg" alt="suprio-dev's Contribution Animation">
+</p>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg"/>
+
+</p>
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suprio-dev&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suprio-dev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suprio-dev&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suprio-dev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suprio-dev&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ✍️ Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ☕ Support Me
+
+<p align="center">
+
+<a href="upi://pay?pa=suprioadhikary802@oksbi&pn=Suprio%20Adhikary&cu=INR">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=suprio-dev&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/suprio-dev?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/suprio-dev?style=for-the-badge"/>
+
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:00F5FF&height=120&section=footer"/>
+</p>
