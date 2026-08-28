@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Suprio Adhikary</h1>
+<h1 align="center">👋 Hi, I'm Suprio Adhikary</h1>
 
 <h3 align="center">
-Aspiring Full Stack MERN Developer • Passionate Coder • Problem Solver
+Aspiring Full Stack Developer • Passionate Coder • Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+MERN+Developer;HTML+%7C+CSS+%7C+Tailwind+%7C+Javascript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -17,8 +17,8 @@ Aspiring Full Stack MERN Developer • Passionate Coder • Problem Solver
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 💻 Aspiring Full Stack MERN Developer
-- 🌱 Currently learning **Javascript**
+- 💻 Aspiring Full Stack Developer
+- 🌱 Currently learning **MERN Stack**
 - 🚀 Passionate about building responsive web applications
 - 🤖 Interested in AI Integration
 - ⚡ I love turning ideas into websites
@@ -65,7 +65,7 @@ Aspiring Full Stack MERN Developer • Passionate Coder • Problem Solver
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,java,javascript" />
+<img src="https://skillicons.dev/icons?i=java,c,javascript" />
 
 </p>
 
@@ -73,7 +73,7 @@ Aspiring Full Stack MERN Developer • Passionate Coder • Problem Solver
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github," />
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 </p>
 
