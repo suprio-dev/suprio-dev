@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Suprio Adhikary</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Suprio Adhikary</h1>
 
 <h3 align="center">
 Aspiring Full Stack Developer • Passionate Coder • Problem Solver
@@ -27,26 +27,19 @@ Aspiring Full Stack Developer • Passionate Coder • Problem Solver
 
 ---
 
-# 🌐 Connect With Me
+# 🔗 Connect with Me
+
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/suprioadhikary_07?igsi=YXFnZGFkc3pkdXJ6">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:suprioadhikary802@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://suprio-dev.forkfolio.dev">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/suprio_a84633">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:suprioadhikary802@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
 </p>
 
 ---
@@ -96,13 +89,13 @@ Aspiring Full Stack Developer • Passionate Coder • Problem Solver
 
 ---
 
-# 🐍 Contribution Snake
+# 👾 Contribution Arcade
 
-<p align="center">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg"/>
-
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -132,13 +125,11 @@ Aspiring Full Stack Developer • Passionate Coder • Problem Solver
 
 ---
 
-# ✍️ Dev Quote
 
-<p align="center">
+# 💬 Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> “I’m not trying to be perfect, I’m trying to get better every day.”
 
-</p>
 
 ---
 
