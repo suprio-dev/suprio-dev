@@ -12,10 +12,11 @@ Aspiring Full Stack Developer • Passionate Coder • Problem Solver
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-# 💫 About Me
-
+</p> 
+😎 About Me
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+> “I’m not trying to be perfect, I’m trying to get better every day.”
 
 - 💻 Aspiring Full Stack Developer
 - 🌱 Currently learning **MERN Stack**
@@ -27,7 +28,7 @@ Aspiring Full Stack Developer • Passionate Coder • Problem Solver
 
 ---
 
-# 🔗 Connect with Me
+## 🔗 Connect with Me
 
 
 <p align="center">
@@ -44,52 +45,49 @@ Aspiring Full Stack Developer • Passionate Coder • Problem Solver
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack & Skills
+<div align="center">
 
-### Frontend
+### 💻 Programming Languages:
 
-<p>
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="70" alt="C#" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
 
-</p>
+### 🌐 Frontend Development:
 
-### Languages
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" width="300" />
 
-<p>
+### 🔧 Tools & Technologies:
 
-<img src="https://skillicons.dev/icons?i=java,c,javascript" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" width="150" />
 
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=suprio-dev&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suprio-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=suprio-dev&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
+             width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
+      <br/>
+ <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=suprio-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
+      <br/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suprio-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+             width="100%" style="display:block; margin:0;" alt="Top Languages"/>
+    </td>
+    <td width="50%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=suprio-dev&theme=radical"/>
-</p>
-
----
-
-# 👾 Contribution Arcade
+## 👾 Contribution Arcade
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -97,9 +95,11 @@ Aspiring Full Stack Developer • Passionate Coder • Problem Solver
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
+> Not today. Not tomorrow. But one day ;-)
+
 ---
 
-# 📈 Profile Summary
+## 📈 Profile Summary
 
 <p align="center">
 
@@ -126,14 +126,7 @@ Aspiring Full Stack Developer • Passionate Coder • Problem Solver
 ---
 
 
-# 💬 Quote
-
-> “I’m not trying to be perfect, I’m trying to get better every day.”
-
-
----
-
-# ☕ Support Me
+## ☕ Support Me
 
 <p align="center">
 
