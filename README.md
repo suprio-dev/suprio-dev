@@ -57,11 +57,11 @@ Aspiring Full Stack Developer • Passionate Coder • Problem Solver
 
 ### 🌐 Frontend Development:
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" width="300" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" width="170" />
 
-### 🔧 Tools & Technologies:
+### 🔧 AI Tools & Technologies:
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" width="150" />
+![Others](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,claude,chatgpt,gemini)
 
 </div>
 
