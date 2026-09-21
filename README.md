@@ -1,11 +1,11 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Suprio Adhikary</h1>
 
 <h3 align="center">
-Aspiring Full Stack Developer • Passionate Coder • Problem Solver
+Aspiring MERN Stack Developer • Tech-Savvy Coder • Creative Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+MERN+Stack+Developer;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -13,13 +13,13 @@ Aspiring Full Stack Developer • Passionate Coder • Problem Solver
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p> 
-😎 About Me
+✨ About Me
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 > “I’m not trying to be perfect, I’m trying to get better every day.”
 
-- 💻 Aspiring Full Stack Developer
-- 🌱 Currently learning **MERN Stack**
+- 💻 Aspiring **MERN** Stack Developer
+- 🌱 Currently working with **Frontend Technologies**
 - 🚀 Passionate about building responsive web applications
 - 🤖 Interested in AI Integration
 - ⚡ I love turning ideas into websites
