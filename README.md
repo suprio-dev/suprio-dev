@@ -14,7 +14,7 @@ Aspiring MERN Stack Developer • Tech-Savvy Coder • Creative Problem Solver
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p> 
 ✨ About Me
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 > “I’m not trying to be perfect, I’m trying to get better every day.”
 
