@@ -1,22 +1,40 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Suprio Adhikary</h1>
+<!-- ===== HEADER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:0078FF&height=220&section=header&text=Suprio%20Adhikary&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20MERN%20Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Suprio Adhikary" />
+</p>
 
-<h3 align="center">
-Aspiring MERN Stack Developer • Tech-Savvy Coder • Creative Problem Solver
-</h3>
+<!-- ===== TYPING ANIMATION ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Suprio!;Aspiring+MERN+Stack+Developer;Open+Source+Enthusiast;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Apps;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing animation" />
+</p>
+
+<!-- ===== BADGES ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suprio-dev&style=for-the-badge&color=0078FF&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/suprio-dev?tab=followers"><img src="https://img.shields.io/github/followers/suprio-dev?style=for-the-badge&color=00D4FF&labelColor=0D1117" alt="Followers" /></a>
+  <a href="https://github.com/suprio-dev?tab=repositories"><img src="https://img.shields.io/github/stars/suprio-dev?style=for-the-badge&color=0078FF&labelColor=0D1117" alt="Stars" /></a>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+MERN+Stack+Developer;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+  <a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/suprio_a84633"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/suprioadhikary_07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:suprioadhikary802@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p> 
-✨ About Me
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Welcome To My GitHub" />
+</p>
 
-> “I’m not trying to be perfect, I’m trying to get better every day.”
+## ✨ About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+
+> "I'm not trying to be perfect, I'm trying to get better every day."
 
 - 💻 Aspiring **MERN** Stack Developer
 - 🌱 Currently working with **Frontend Technologies**
@@ -24,62 +42,47 @@ Aspiring MERN Stack Developer • Tech-Savvy Coder • Creative Problem Solver
 - 🤖 Interested in AI Integration
 - ⚡ I love turning ideas into websites
 
-<br>
-
----
-
-## 🔗 Connect with Me
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/suprio_a84633">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:suprioadhikary802@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+</td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
+
 <div align="center">
 
-### 💻 Programming Languages:
+### 💻 Programming Languages
 
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="70" alt="C#" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=c,java,js" alt="C, Java, JavaScript" />
 
+### 🌐 Frontend Development
 
-### 🌐 Frontend Development:
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JavaScript" />
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" width="170" />
+### 🔧 AI Tools & Technologies
 
-### 🔧 AI Tools & Technologies:
-
-![Others](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,claude,chatgpt,gemini)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,claude,chatgpt,gemini" alt="Tools" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <table>
   <tr>
     <td width="50%" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=suprio-dev&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
-             width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
-      <br/>
- <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=suprio-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
-      <br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suprio-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-             width="100%" style="display:block; margin:0;" alt="Top Languages"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=suprio-dev&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false" width="100%" alt="GitHub Stats" />
+      <br />
+      <img src="https://streak-stats.demolab.com/?user=suprio-dev&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="100%" alt="GitHub Streak" />
+      <br />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suprio-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="Top Languages" />
     </td>
-    <td width="50%" valign="center">
+    <td width="50%" valign="middle" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
     </td>
   </tr>
@@ -92,60 +95,13 @@ Aspiring MERN Stack Developer • Tech-Savvy Coder • Creative Problem Solver
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
 > Not today. Not tomorrow. But one day ;-)
 
 ---
 
-## 📈 Profile Summary
-
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suprio-dev&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suprio-dev&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suprio-dev&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suprio-dev&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suprio-dev&theme=tokyonight"/>
-
-</p>
-
----
-
-
-## ☕ Support Me
-
-<p align="center">
-
-<a href="upi://pay?pa=suprioadhikary802@oksbi&pn=Suprio%20Adhikary&cu=INR">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=suprio-dev&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/suprio-dev?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/suprio-dev?style=for-the-badge"/>
-
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:00F5FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:00F5FF&height=120&section=footer" alt="Footer" />
 </p>
