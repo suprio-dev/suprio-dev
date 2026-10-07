@@ -22,7 +22,9 @@
   <a href="mailto:suprioadhikary802@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BC13FE,100:FF00E5&height=4" width="100%" alt="Neon line" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:BC13FE,100:FF00E5&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&stroke=00F5FF&strokeWidth=2&animation=fadeIn" alt="Welcome To My GitHub" />
@@ -49,7 +51,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BC13FE,100:FF00E5&height=4" width="100%" alt="Neon line" />
+</p>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -69,7 +73,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BC13FE,100:FF00E5&height=4" width="100%" alt="Neon line" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -88,7 +94,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BC13FE,100:FF00E5&height=4" width="100%" alt="Neon line" />
+</p>
 
 ## 👾 Contribution Arcade
 
@@ -100,8 +108,11 @@
 
 > Not today. Not tomorrow. But one day ;-)
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:BC13FE,100:00F5FF&height=120&section=footer" alt="Footer" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BC13FE,100:FF00E5&height=4" width="100%" alt="Neon line" />
+</p>
+
