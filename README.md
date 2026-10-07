@@ -5,7 +5,7 @@
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Suprio!;Aspiring+MERN+Stack+Developer;Open+Source+Enthusiast;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Apps;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Suprio!;Aspiring+MERN+Stack+Developer;Open+Source+Contributor;Frontend+Developer;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Apps+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 <!-- ===== BADGES ===== -->
