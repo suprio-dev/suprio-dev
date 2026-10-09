@@ -1,126 +1,48 @@
-<!-- ===== HEADER ===== -->
+<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,50:BC13FE,100:FF00E5&height=220&section=header&text=Suprio%20Adhikary&fontSize=56&fontColor=ffffff&stroke=00F5FF&strokeWidth=2&fontAlignY=38&desc=Aspiring%20MERN%20Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="Suprio Adhikary" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/assets/light.svg">
+    <img alt="Suprio Adhikary · suprio-dev" src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/assets/dark.svg" width="100%">
+  </picture>
 </p>
 
-<!-- ===== TYPING ANIMATION ===== -->
+<!-- SOCIAL BADGES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Suprio!;Aspiring+MERN+Stack+Developer;Open+Source+Contributor;Frontend+Developer;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Apps+%F0%9F%9A%80" alt="Typing animation" />
+  <a href="mailto:suprioadhikary802@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/suprioadhikary_07"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=22D3EE"></a>&nbsp;&nbsp;
+  <a href="https://x.com/suprio_a84633"><img alt="X" src="https://img.shields.io/badge/X-0A101F?style=for-the-badge&logo=x&logoColor=22D3EE"></a>
 </p>
 
-<!-- ===== BADGES ===== -->
+<!-- STREAK -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suprio-dev&style=for-the-badge&color=FF00E5&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="https://github.com/suprio-dev?tab=followers"><img src="https://img.shields.io/github/followers/suprio-dev?style=for-the-badge&color=00F5FF&labelColor=0D1117" alt="Followers" /></a>
-  <a href="https://github.com/suprio-dev?tab=repositories"><img src="https://img.shields.io/github/stars/suprio-dev?style=for-the-badge&color=39FF14&labelColor=0D1117" alt="Stars" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=suprio-dev&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=D7E0F2&sideNums=D7E0F2&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=6B7A99&stroke=1F2A44&border=1F2A44">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=suprio-dev&background=F6F8FC&ring=0891B2&fire=10B981&currStreakNum=1E293B&sideNums=1E293B&currStreakLabel=0891B2&sideLabels=0891B2&dates=64748B&stroke=D5DEEC&border=D5DEEC">
+    <img alt="suprio-dev streak" src="https://streak-stats.demolab.com/?user=suprio-dev&background=0A101F&ring=22D3EE&fire=10B981&currStreakNum=D7E0F2&sideNums=D7E0F2&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=6B7A99&stroke=1F2A44&border=1F2A44" width="100%">
+  </picture>
 </p>
 
+<!-- STATS + TOP LANGUAGES -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/suprio_a84633"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00F5FF" alt="X" /></a>
-  <a href="https://www.instagram.com/suprioadhikary_07"><img src="https://img.shields.io/badge/Instagram-FF00E5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:suprioadhikary802@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=D7E0F2&icon_color=10B981&border_color=1F2A44">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&bg_color=F6F8FC&title_color=0891B2&text_color=1E293B&icon_color=10B981&border_color=D5DEEC">
+    <img alt="suprio-dev GitHub stats" src="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=D7E0F2&icon_color=10B981&border_color=1F2A44" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=D7E0F2&border_color=1F2A44">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&bg_color=F6F8FC&title_color=0891B2&text_color=1E293B&border_color=D5DEEC">
+    <img alt="Top languages" src="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=D7E0F2&border_color=1F2A44" width="49%">
+  </picture>
 </p>
 
+<!-- CONTRIBUTION SNAKE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BC13FE,100:FF00E5&height=4" width="100%" alt="Neon line" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:BC13FE,100:FF00E5&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&stroke=00F5FF&strokeWidth=2&animation=fadeIn" alt="Welcome To My GitHub" />
-</p>
-
-## ✨ About Me
-
-<table>
-  <tr>
-    <td width="60%" valign="middle">
-
-> "I'm not trying to be perfect, I'm trying to get better every day."
-
-- 💻 Aspiring **MERN** Stack Developer
-- 🌱 Currently working with **Frontend Technologies**
-- 🚀 Passionate about building responsive web applications
-- 🤖 Interested in AI Integration
-- ⚡ I love turning ideas into websites
-
-</td>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BC13FE,100:FF00E5&height=4" width="100%" alt="Neon line" />
-</p>
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,java,js" alt="C, Java, JavaScript" />
-
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JavaScript" />
-
-### 🔧 AI Tools & Technologies
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,claude,chatgpt,gemini" alt="Tools" />
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BC13FE,100:FF00E5&height=4" width="100%" alt="Neon line" />
-</p>
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=suprio-dev&theme=dark&hide_border=false&border_color=00F5FF&bg_color=0D1117&ring_color=FF00E5&title_color=00F5FF&text_color=39FF14&icon_color=FF00E5&include_all_commits=false&count_private=false" width="100%" alt="GitHub Stats" />
-      <br />
-      <img src="https://streak-stats.demolab.com/?user=suprio-dev&theme=dark&hide_border=false&border=00F5FF&background=0D1117&ring=FF00E5&fire=39FF14&currStreakNum=00F5FF&sideNums=39FF14&currStreakLabel=FF00E5&sideLabels=00F5FF&dates=BC13FE" width="100%" alt="GitHub Streak" />
-      <br />
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suprio-dev&theme=dark&hide_border=false&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=39FF14&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="Top Languages" />
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BC13FE,100:FF00E5&height=4" width="100%" alt="Neon line" />
-</p>
-
-## 👾 Contribution Arcade
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-> Not today. Not tomorrow. But one day ;-)
->
-> <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake.svg">
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg" width="100%">
   </picture>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:BC13FE,100:00F5FF&height=120&section=footer" alt="Footer" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BC13FE,100:FF00E5&height=4" width="100%" alt="Neon line" />
-</p>
-
