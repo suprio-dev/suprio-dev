@@ -1,9 +1,9 @@
 <!-- BANNER -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/assets/light.svg">
-    <img alt="Suprio Adhikary · suprio-dev" src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/assets/dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/light.svg">
+    <img alt="Suprio Adhikary · suprio-dev" src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/dark.svg" width="100%">
   </picture>
 </p>
 
