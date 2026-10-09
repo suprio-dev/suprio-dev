@@ -20,7 +20,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <sub>⚡ &nbsp; CONTRIBUTION STREAK</sub><br><br>
+      <h3>⚡ &nbsp; CONTRIBUTION STREAK</h3>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=suprio-dev&hide_border=true&background=00000000&ring=22D3EE&fire=10B981&currStreakNum=D7E0F2&sideNums=D7E0F2&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=6B7A99">
         <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=suprio-dev&hide_border=true&background=00000000&ring=0891B2&fire=10B981&currStreakNum=1E293B&sideNums=1E293B&currStreakLabel=0891B2&sideLabels=0891B2&dates=64748B">
@@ -34,7 +34,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <sub>📊 &nbsp; GITHUB STATS</sub><br><br>
+      <h3>📊 &nbsp; GITHUB STATS</h3>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=D7E0F2&icon_color=10B981">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=1E293B&icon_color=10B981">
@@ -42,7 +42,7 @@
       </picture>
     </td>
     <td align="center" width="50%">
-      <sub>💻 &nbsp; TOP LANGUAGES</sub><br><br>
+      <h3>💻 &nbsp; TOP LANGUAGES</h3>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=D7E0F2">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=0891B2&text_color=1E293B">
@@ -56,7 +56,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <sub>🐍 &nbsp; CONTRIBUTION ACTIVITY</sub><br><br>
+      <h3>🐍 &nbsp; CONTRIBUTION ACTIVITY</h3>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake.svg">
