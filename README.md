@@ -107,6 +107,14 @@
 </picture>
 
 > Not today. Not tomorrow. But one day ;-)
+>
+> <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg" width="100%">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:BC13FE,100:00F5FF&height=120&section=footer" alt="Footer" />
