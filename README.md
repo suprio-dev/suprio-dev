@@ -9,12 +9,22 @@
 </p>
 
 <!-- SOCIALS -->
-<p align="center">
-  <a href="mailto:suprioadhikary802@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=flat-square&logo=gmail&logoColor=22D3EE"></a>
-  <a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://img.shields.io/badge/LinkedIn-0A101F?style=flat-square&logo=linkedin&logoColor=22D3EE"></a>
-  <a href="https://www.instagram.com/suprioadhikary_07"><img src="https://img.shields.io/badge/Instagram-0A101F?style=flat-square&logo=instagram&logoColor=22D3EE"></a>
-  <a href="https://x.com/suprio_a84633"><img src="https://img.shields.io/badge/X-0A101F?style=flat-square&logo=x&logoColor=22D3EE"></a>
-</p>
+<table align="center" width="100%">
+  <tr>   
+  <td>
+    <a href="mailto:suprioadhikary802@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=flat-square&logo=gmail&logoColor=22D3EE"></a>
+  </td>
+  <td>
+    <a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://img.shields.io/badge/LinkedIn-0A101F?style=flat-square&logo=linkedin&logoColor=22D3EE"></a>
+  </td>
+  <td>
+    <a href="https://www.instagram.com/suprioadhikary_07"><img src="https://img.shields.io/badge/Instagram-0A101F?style=flat-square&logo=instagram&logoColor=22D3EE"></a>
+  </td>
+  <td>
+    <a href="https://x.com/suprio_a84633"><img src="https://img.shields.io/badge/X-0A101F?style=flat-square&logo=x&logoColor=22D3EE"></a>
+  </td>
+  </tr> 
+</table>
 
 <!-- STREAK CARD -->
 <table align="center" width="100%">
