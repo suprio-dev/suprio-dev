@@ -1,6 +1,8 @@
  <div align="center">
    
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A101F,45:123047,75:164E63,100:0A101F&height=12&section=header" width="100%" alt="Cyan gradient section divider">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A101F,25:164E63,50:22D3EE,75:164E63,100:0A101F&height=12&section=header&animation=fadeIn" width="100%" alt="Cyan gradient header divider" />
+</div>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/dark.svg">
@@ -31,11 +33,11 @@
 <br>
 
 <!-- ═════════════════════ ABOUT ME ═════════════════════ -->
-
+ 
 ## `01` / INITIALIZE
 
 <div align="center">
-  
+  <samp>root@suprio:~$ keep_building --no_shortcuts</samp>
 </div>
 
 ```bash
@@ -203,7 +205,9 @@ I'm not here just to collect technologies. I want to understand them, apply them
   
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,35:123047,70:0891B2,100:0A101F&height=150&section=footer&animation=twinkling" width="100%" alt="Cyberpunk wave footer">
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A101F,25:164E63,50:22D3EE,75:164E63,100:0A101F&height=12&section=header&animation=fadeIn" width="100%" alt="Cyan gradient header divider" />
+</div>
 
  <br><br>
  
