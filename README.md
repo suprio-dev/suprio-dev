@@ -1,240 +1,235 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:052e16,70:00ff41,100:020617&height=8&section=header&animation=fadeIn" width="100%" alt="Terminal boot divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A101F,45:123047,75:164E63,100:0A101F&height=12&section=header" width="100%" alt="Blue gradient divider">
 
-<br>
-
-<table align="center">
-<tr>
-<td>
-
-```text
-┌─[ boot.log ]─────────────────────────────────────────────────┐
-│  KERNEL    : SUPRIO-OS                    [ SYSTEM ONLINE ]  │
-│  NETWORK   : CONNECTED                                       │
-│  SECURITY  : AUTHORIZED                                      │
-│  SESSION   : DEVELOPER                                       │
-│  ENV       : DEVELOPMENT                                     │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+ACCESSING+DEVELOPER+PROFILE...;%3E+IDENTITY%3A+SUPRIO+ADHIKARY;%3E+STATUS%3A+ALWAYS+LEARNING;%3E+INITIALIZING+NEXT+CHAPTER_" alt="Terminal introduction">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=800&color=39FF14&center=true&vCenter=true&width=550&lines=ASPIRING+MERN+STACK+DEVELOPER;BACKEND+ENGINEERING+IN+PROGRESS;OPEN+SOURCE+%7C+CODE+%7C+REPEAT;UNDERSTAND+THE+SYSTEM.+BUILD+WITH+PURPOSE." alt="Developer roles">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/light.svg">
+  <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/dark.svg" width="100%" alt="Suprio Adhikary — Developer">
+</picture>
 
 <br><br>
 
-<a href="mailto:suprioadhikary802@gmail.com"><img src="https://img.shields.io/badge/MAIL-020617?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"></a>
-<a href="https://github.com/suprio-dev"><img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/suprioadhikary_07"><img src="https://img.shields.io/badge/INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=00FF41" alt="Instagram"></a>
-<a href="https://x.com/suprio_a84633"><img src="https://img.shields.io/badge/NETWORK_X-020617?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"></a>
+<a href="https://github.com/suprio-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub" title="GitHub"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" height="52" alt="LinkedIn" title="LinkedIn"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:suprioadhikary802@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" height="52" alt="Email" title="Email"></a>
+&nbsp;&nbsp;&nbsp;
+
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEM-LEARNING_IN_PUBLIC-020617?style=flat-square&labelColor=052e16&color=00ff41" alt="Learning in public">
-<img src="https://img.shields.io/badge/FOCUS-WEB_%26_BACKEND-020617?style=flat-square&labelColor=052e16&color=00ff41" alt="Web and backend">
-<img src="https://img.shields.io/badge/PROTOCOL-CONSISTENCY-020617?style=flat-square&labelColor=052e16&color=00ff41" alt="Consistency">
+### Aspiring Software Developer · Open Source Contributor
 
-</div>
+*Building, learning, and shipping — one project at a time.*
 
----
+<br>
 
-<div align="center">
+<a href="#console"><kbd>&nbsp;01 · Console&nbsp;</kbd></a>
+<a href="#stack"><kbd>&nbsp;02 · Stack&nbsp;</kbd></a>
+<a href="#projects"><kbd>&nbsp;03 · Projects&nbsp;</kbd></a>
+<a href="#workspace"><kbd>&nbsp;04 · Workspace&nbsp;</kbd></a>
+<a href="#stats"><kbd>&nbsp;05 · Stats&nbsp;</kbd></a>
+<a href="#roadmap"><kbd>&nbsp;06 · Roadmap&nbsp;</kbd></a>
+<a href="#philosophy"><kbd>&nbsp;07 · Philosophy&nbsp;</kbd></a>
+<a href="#connect"><kbd>&nbsp;08 · Connect&nbsp;</kbd></a>
 
-<h2 align="center"><code>01 // IDENTITY</code></h2>
+<br><br>
 
-<table align="center">
-<tr>
-<td>
+<a id="console"></a>
 
-```bash
-┌──[suprio@system]─[~]
-└─$ whoami
-```
-
-</td>
-</tr>
-</table>
+## 01 / Developer Console
 
 <table align="center" width="100%">
 <tr>
-<td align="center">
+<td width="50%" align="center" valign="middle">
 
-```text
-┌─[ whoami ]───────────────────────────────────────────────┐
-│  USER        : Suprio Adhikary                           │
-│  ROLE        : Computer Science Undergraduate            │
-│  DESIGNATION : Aspiring MERN Stack Developer             │
-│  INTERESTS   : Backend Engineering / Open Source         │
-│  STATUS      : Learning. Experimenting. Improving.       │
-└──────────────────────────────────────────────────────────┘
+```yaml
+name: Suprio Adhikary
+location: Kolkata, India
+education: B.Tech in Computer Science & Engineering
+focus:
+  - Web Development
+  - JavaScript & Backend Engineering
+  - Problem Solving
+currently_learning:
+  - Backend Development
+  - Data Structures & Algorithms
+mindset: Understand deeply. Build consistently.
 ```
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td width="50%" align="center" valign="middle">
 
-<code>/etc/motd</code>
+I'm a computer science undergraduate who enjoys turning ideas into functional projects and learning how software works under the hood.
 
-Hey, I'm **Suprio** — a Computer Science undergraduate exploring the world of software engineering.
-
-I enjoy understanding what happens behind the interface, figuring out how systems work, and turning ideas into functional software.
-
-Currently, I'm strengthening my web development fundamentals while gradually moving toward **backend engineering** and exploring open source.
-
-I believe in understanding the logic before chasing the tools, building with intention, and improving one concept at a time.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-```bash
-┌─[ philosophy.sh ]──────────────────────┐
-│$ echo $DEVELOPER_PHILOSOPHY            │
-│                                        │
-│"Understand the system.                 │
-│ Write the code.                        │
-│ Learn from the process."               │
-└────────────────────────────────────────┘
-```
+Currently strengthening my web development fundamentals while gradually moving toward **backend engineering**. I value understanding the logic behind a feature just as much as making it work.
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
----
+<a id="stack"></a>
 
-<div align="center">
+## 02 / Technology Stack
 
-<h2 align="center"><code>02 // TECH STACK</code></h2>
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td>
+<td width="33%" align="center" valign="top">
 
-```bash
-┌──[suprio@system]─[~/toolkit]
-└─$ ./inspect_environment.sh
-```
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark" alt="HTML CSS JavaScript Tailwind React">
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=java,c,git,github,vscode&theme=dark" alt="Java C Git GitHub VS Code">
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express MongoDB">
 
 </td>
 </tr>
 </table>
+
+*Currently learning and expanding this stack.*
+
+<br>
+
+<a id="projects"></a>
+
+## 03 / Selected Projects
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3><code>MODULE 01</code></h3>
+### [Taskly Todo](https://suprio-dev.github.io/Taskly-Todo-App/)
 
-<b>CURRENT TOOLKIT</b>
+A task management app with category and priority controls, editing, completion tracking, progress counters, and persistent local storage.
 
-<br><br>
+**Stack:** HTML · Tailwind CSS · JavaScript
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode&theme=dark&perline=4" alt="Current development toolkit">
+[**Live Demo ↗**](https://suprio-dev.github.io/Taskly-Todo-App/) · [Repository](https://github.com/suprio-dev/Taskly-Todo-App)
 
-<br><br>
+</td>
+<td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-020617?style=flat-square&labelColor=052e16&color=00ff41" alt="Active toolkit">
+### [MovieHub](https://suprio-dev.github.io/MovieHub/)
+
+A responsive movie discovery app with movie search, details, and data powered by the OMDb API.
+
+**Stack:** HTML · Tailwind CSS · JavaScript · OMDb API
+
+[**Live Demo ↗**](https://suprio-dev.github.io/MovieHub/) · [Repository](https://github.com/suprio-dev/MovieHub)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### [VaultKey](https://suprio-dev.github.io/VaultKey/)
+
+A password generator with adjustable length and character options for creating customizable passwords.
+
+**Stack:** HTML · Tailwind CSS · JavaScript
+
+[**Live Demo ↗**](https://suprio-dev.github.io/VaultKey/) · [Repository](https://github.com/suprio-dev/VaultKey)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### [Veyro](https://suprio-dev.github.io/Veyro/)
+
+A Rock Paper Scissors game with a polished interface, smooth interactions, score tracking, and best-of-five gameplay.
+
+**Stack:** HTML · CSS · JavaScript
+
+[**Live Demo ↗**](https://suprio-dev.github.io/Veyro/) · [Repository](https://github.com/suprio-dev/Veyro)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### [Atmos](https://suprio-dev.github.io/Atmos/)
+
+A weather app featuring real-time weather information, API integration, and location-based weather lookup.
+
+**Stack:** HTML · Tailwind CSS · JavaScript · OpenWeather API
+
+[**Live Demo ↗**](https://suprio-dev.github.io/Atmos/) · [Repository](https://github.com/suprio-dev/Atmos)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### [Pop the Beast!](https://suprio-dev.github.io/Pop-the-Beast-/)
+
+A fast-paced arcade game where players catch popping creatures, score points, and race against a countdown timer.
+
+**Stack:** HTML · CSS · Tailwind CSS · JavaScript
+
+[**Live Demo ↗**](https://suprio-dev.github.io/Pop-the-Beast-/) · [Repository](https://github.com/suprio-dev/Pop-the-Beast-)
+
+</td>
+</tr>
+</table>
 
 <br>
 
-```text
-┌─[ toolkit.active ]─────────────┐
-│                                │
-│    HTML / CSS / JAVASCRIPT     │
-│                                │
-│      TAILWIND CSS / REACT      │
-│                                │
-│     GIT / GITHUB / VS CODE     │
-│                                │
-└────────────────────────────────┘
+<a id="workspace"></a>
+
+## 04 / Inside My Workspace
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### How I Build
+
+```javascript
+const workflow = [
+  "Understand the problem",
+  "Break it into smaller steps",
+  "Build the core logic",
+  "Test and debug",
+  "Refine and ship"
+];
 ```
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<h3><code>MODULE 02</code></h3>
+### How I Use Git
 
-<b>LEARNING &amp; EXPLORING</b>
+```bash
+git status
+git add .
+git commit -m "feat: add functionality"
+git push origin main
+```
 
-<br><br>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=c,java,nodejs,express,mongodb,nextjs&theme=dark&perline=3" alt="Technologies being explored">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING-020617?style=flat-square&labelColor=052e16&color=00ff41" alt="Learning technologies">
+I prefer building features step by step, experimenting with ideas, debugging my own code, and learning from what doesn't work.
 
 <br>
 
-```text
-┌─[ toolkit.learning ]───────────┐
-│                                │
-│            C / JAVA            │
-│                                │
-│       NODE.JS / EXPRESS        │
-│                                │
-│       MONGODB / NEXT.JS        │
-│                                │
-└────────────────────────────────┘
-```
+<a id="stats"></a>
 
-</td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-```bash
-┌─[ dependencies ]─────────────────────────┐
-│$ sudo apt install curiosity              │
-│$ sudo apt install patience               │
-│$ sudo apt install problem-solving        │
-└──────────────────────────────────────────┘
-```
-
-<b>DEPENDENCIES INSTALLED. GROWTH IN PROGRESS.</b>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<h2 align="center"><code>03 // ACTIVITY MONITOR</code></h2>
-
-<table align="center">
-<tr>
-<td>
-
-```bash
-┌──[suprio@system]─[~/telemetry]
-└─$ git status --short && gh api user
-```
-
-</td>
-</tr>
-</table>
+## 05 / Contribution Log
 
 <table align="center" width="100%">
 <tr>
@@ -271,183 +266,9 @@ I believe in understanding the logic before chasing the tools, building with int
 <tr>
 <td align="center">
 
-```bash
-┌─[ development.log ]────────────────────────────┐
-│$ tail -f /var/log/development.log              │
-│                                                │
-│[INFO] Learning new concepts...                 │
-│[INFO] Improving problem-solving skills...      │
-│[INFO] Exploring open source...                 │
-│[INFO] Progress is a process. Keep going.       │
-└────────────────────────────────────────────────┘
-```
+<h3><code>CONTRIBUTION GRAPH</code></h3>
 
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<h2 align="center"><code>04 // CONTRIBUTION NETWORK</code></h2>
-
-<table align="center">
-<tr>
-<td>
-
-```bash
-┌──[suprio@system]─[~/contributions]
-└─$ ./snake --render --theme=matrix
-```
-
-</td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation">
-</picture>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-```bash
-┌─[ grep.out ]───────────────────────────────────┐
-│$ grep -r "progress" ~/development/             │
-│                                                │
-│Every commit teaches something.                 │
-│Every bug reveals something.                    │
-│Every contribution is part of the process.      │
-└────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<h2 align="center"><code>05 // EXECUTION PLAN</code></h2>
-
-<table align="center">
-<tr>
-<td>
-
-```bash
-┌──[suprio@system]─[~/roadmap]
-└─$ cat roadmap.conf
-```
-
-</td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-<h3><code>01 / LEARN</code></h3>
-
-<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-020617?style=flat-square&labelColor=052e16&color=00ff41" alt="Learning in progress">
-
-<br><br>
-
-Strengthen fundamentals, understand core concepts, and develop problem-solving skills.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<h3><code>02 / BUILD</code></h3>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-020617?style=flat-square&labelColor=052e16&color=00ff41" alt="Building actively">
-
-<br><br>
-
-Create practical projects, experiment with ideas, and write cleaner, more reliable code.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-<h3><code>03 / CONTRIBUTE</code></h3>
-
-<img src="https://img.shields.io/badge/STATUS-ONGOING-020617?style=flat-square&labelColor=052e16&color=00ff41" alt="Contributing and learning">
-
-<br><br>
-
-Explore real codebases, collaborate with developers, and learn through open source.
-
-</td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-<h3><code>ROADMAP CONFIGURATION</code></h3>
-
-```text
-┌─[ roadmap.conf ]─────────────────────────────────────────┐
-│                                                          │
-│   WEB DEVELOPMENT  →  BACKEND  →  SOFTWARE ENGINEERING   │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-<img src="https://img.shields.io/badge/PRIORITY-FUNDAMENTALS_%3E_HYPE-020617?style=flat-square&labelColor=052e16&color=00ff41" alt="Fundamentals over hype">
-<img src="https://img.shields.io/badge/STRATEGY-LEARN_%E2%86%92_APPLY_%E2%86%92_REFLECT-020617?style=flat-square&labelColor=052e16&color=00ff41" alt="Learning strategy">
-
-<br><br>
-
-<a href="https://github.com/suprio-dev?tab=repositories"><img src="https://img.shields.io/badge/EXECUTE-EXPLORE_REPOSITORIES-020617?style=for-the-badge&logo=github&logoColor=00FF41" alt="Explore repositories"></a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<h2 align="center"><code>06 // SESSION TERMINATION</code></h2>
-
-<table align="center">
-<tr>
-<td>
-
-```text
-┌─[ session.end ]────────────────────────────────────────┐
-│                                                        │
-│                  CONNECTION : ACTIVE                   │
-│                LEARNING   : CONTINUOUS                 │
-│      MISSION    : UNDERSTAND → BUILD → CONTRIBUTE      │
-│                                                        │
-│                         $ exit                         │
-│       Session paused. The learning continues...        │
-│                                                        │
-└────────────────────────────────────────────────────────┘
-```
-
-<img src="https://img.shields.io/badge/EXPLORE-00FF41?style=flat-square&labelColor=020617" alt="Explore">
-<img src="https://img.shields.io/badge/BUILD-39FF14?style=flat-square&labelColor=020617" alt="Build">
-<img src="https://img.shields.io/badge/EVOLVE-C9D1D9?style=flat-square&labelColor=020617" alt="Evolve">
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake">
 
 </td>
 </tr>
@@ -455,6 +276,101 @@ Explore real codebases, collaborate with developers, and learn through open sour
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:052e16,70:00ff41,100:020617&height=8&section=footer&animation=fadeIn" width="100%" alt="Terminal shutdown divider">
+<a id="roadmap"></a>
+
+## 06 / Learning Roadmap
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 01 — Strengthen
+
+✅ HTML & CSS fundamentals<br>
+✅ JavaScript projects<br>
+✅ Git & GitHub basics<br>
+⬜ Deeper JavaScript
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 02 — Build
+
+⬜ React<br>
+⬜ Node.js & Express<br>
+⬜ REST APIs<br>
+⬜ Databases & authentication
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 03 — Engineer
+
+⬜ Data Structures & Algorithms<br>
+⬜ Backend architecture<br>
+⬜ Networking & DBMS<br>
+⬜ DevOps fundamentals
+
+</td>
+</tr>
+</table>
+
+*The goal isn't to rush through a checklist. It's to understand each layer well enough to build with it.*
+
+<br>
+
+<a id="philosophy"></a>
+
+## 07 / Developer Philosophy
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+**Understand before you implement.**
+
+Learn the logic instead of relying on copy-paste.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**Consistency over perfection.**
+
+Small, meaningful progress compounds over time.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**Build to learn. Learn to build.**
+
+Every project is an opportunity to improve problem-solving skills.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a id="connect"></a>
+
+## 08 / Connect
+
+I'm always open to connecting with fellow developers, learning from the community, and exploring opportunities to build and contribute.
+
+<br>
+
+<a href="https://github.com/suprio-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub" title="GitHub"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" height="52" alt="LinkedIn" title="LinkedIn"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/suprioadhikary_07"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="52" height="52" alt="Instagram" title="Instagram"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/suprio_a84633"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="52" height="52" alt="X" title="X"></a>
+
+<br><br>
+
+*Learning every day. Building with purpose.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A101F,45:123047,75:164E63,100:0A101F&height=12&section=footer" width="100%" alt="Blue gradient divider">
 
 </div>
