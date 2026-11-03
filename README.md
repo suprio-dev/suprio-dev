@@ -162,13 +162,13 @@ A Rock Paper Scissors game with a polished interface, smooth interactions, score
 <tr>
 <td width="50%" align="center" valign="top">
 
-### [Atmos](https://suprio-dev.github.io/Atmos/)
+### [Zippy Store](https://suprio-dev.github.io/Zippy-Store/)
 
-A weather app featuring real-time weather information, API integration, and location-based weather lookup.
+A responsive e-commerce web app featuring dynamic product listings, search, category filtering, wishlist, and cart management.
 
-**Stack:** HTML · Tailwind CSS · JavaScript · OpenWeather API
+**Stack:** HTML · Tailwind CSS · JavaScript · DummyJSON API · LocalStorage
 
-[**Live Demo ↗**](https://suprio-dev.github.io/Atmos/) · [Repository](https://github.com/suprio-dev/Atmos)
+[**Live Demo ↗**](https://suprio-dev.github.io/Zippy-Store/) · [Repository](https://github.com/suprio-dev/Zippy-Store)
 
 </td>
 <td width="50%" align="center" valign="top">
