@@ -60,7 +60,7 @@ mindset: Understand deeply. Build consistently.
 </td>
 <td width="50%" align="center" valign="middle">
 
-I'm a computer science undergraduate who enjoys turning ideas into functional projects and learning how software works under the hood.
+I'm a first year computer science undergraduate who enjoys turning ideas into functional projects and learning how software works under the hood.
 
 Currently strengthening my web development fundamentals while gradually moving toward **backend engineering**. I value understanding the logic behind a feature just as much as making it work.
 
