@@ -15,8 +15,6 @@
 <a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" height="52" alt="LinkedIn" title="LinkedIn"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:suprioadhikary802@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" height="52" alt="Email" title="Email"></a>
-&nbsp;&nbsp;&nbsp;
-
 
 <br><br>
 
@@ -102,6 +100,10 @@ Currently strengthening my web development fundamentals while gradually moving t
 </tr>
 </table>
 
+<sub>Frontend · Backend · Databases · DevOps</sub>
+
+<br>
+
 *Currently learning and expanding this stack.*
 
 <br>
@@ -120,6 +122,8 @@ A task management app with category and priority controls, editing, completion t
 
 **Stack:** HTML · Tailwind CSS · JavaScript
 
+<sub><code>focus: CRUD · state persistence · progress tracking</code></sub>
+
 [**Live Demo ↗**](https://suprio-dev.github.io/Taskly-Todo-App/) · [Repository](https://github.com/suprio-dev/Taskly-Todo-App)
 
 </td>
@@ -130,6 +134,8 @@ A task management app with category and priority controls, editing, completion t
 A responsive movie discovery app with movie search, details, and data powered by the OMDb API.
 
 **Stack:** HTML · Tailwind CSS · JavaScript · OMDb API
+
+<sub><code>focus: API fetching · search · responsive layout</code></sub>
 
 [**Live Demo ↗**](https://suprio-dev.github.io/MovieHub/) · [Repository](https://github.com/suprio-dev/MovieHub)
 
@@ -144,6 +150,8 @@ A password generator with adjustable length and character options for creating c
 
 **Stack:** HTML · Tailwind CSS · JavaScript
 
+<sub><code>focus: input controls · string generation logic</code></sub>
+
 [**Live Demo ↗**](https://suprio-dev.github.io/VaultKey/) · [Repository](https://github.com/suprio-dev/VaultKey)
 
 </td>
@@ -154,6 +162,8 @@ A password generator with adjustable length and character options for creating c
 A Rock Paper Scissors game with a polished interface, smooth interactions, score tracking, and best-of-five gameplay.
 
 **Stack:** HTML · CSS · JavaScript
+
+<sub><code>focus: game state · scoring rules · UI feedback</code></sub>
 
 [**Live Demo ↗**](https://suprio-dev.github.io/Veyro/) · [Repository](https://github.com/suprio-dev/Veyro)
 
@@ -168,6 +178,8 @@ A responsive e-commerce web app featuring dynamic product listings, search, cate
 
 **Stack:** HTML · Tailwind CSS · JavaScript · DummyJSON API · LocalStorage
 
+<sub><code>focus: data fetching · filtering · cart & wishlist state</code></sub>
+
 [**Live Demo ↗**](https://suprio-dev.github.io/Zippy-Store/) · [Repository](https://github.com/suprio-dev/Zippy-Store)
 
 </td>
@@ -178,6 +190,8 @@ A responsive e-commerce web app featuring dynamic product listings, search, cate
 A fast-paced arcade game where players catch popping creatures, score points, and race against a countdown timer.
 
 **Stack:** HTML · CSS · Tailwind CSS · JavaScript
+
+<sub><code>focus: timers · event handling · scoring loop</code></sub>
 
 [**Live Demo ↗**](https://suprio-dev.github.io/Pop-the-Beast-/) · [Repository](https://github.com/suprio-dev/Pop-the-Beast-)
 
@@ -264,6 +278,12 @@ I prefer building features step by step, experimenting with ideas, debugging my 
 
 <table align="center" width="100%">
 <tr>
+
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
 <td align="center">
 
 <h3><code>CONTRIBUTION GRAPH</code></h3>
@@ -287,18 +307,18 @@ I prefer building features step by step, experimenting with ideas, debugging my 
 ### 01 — Strengthen
 
 ✅ HTML & CSS fundamentals<br>
-✅ JavaScript projects<br>
-✅ Git & GitHub basics<br>
-⬜ Deeper JavaScript
+✅ Tailwind CSS<br>
+✅ Git & GitHub<br>
+✅ Advanced JavaScript<br>
+⬜ React<br>
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 02 — Build
 
-⬜ React<br>
 ⬜ Node.js & Express<br>
-⬜ REST APIs<br>
+✅ REST APIs<br>
 ⬜ Databases & authentication
 
 </td>
@@ -356,6 +376,16 @@ Every project is an opportunity to improve problem-solving skills.
 ## 08 / Connect
 
 I'm always open to connecting with fellow developers, learning from the community, and exploring opportunities to build and contribute.
+
+<br>
+
+```json
+{
+  "email": "suprioadhikary802@gmail.com",
+  "github": "suprio-dev",
+  "open_to": ["collaboration", "open source", "learning together"]
+}
+```
 
 <br>
 
