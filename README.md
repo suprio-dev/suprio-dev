@@ -52,8 +52,8 @@ focus:
   - JavaScript & Backend Engineering
   - Problem Solving
 currently_learning:
+  - React
   - Backend Development
-  - Data Structures & Algorithms
 mindset: Understand deeply. Build consistently.
 ```
 
