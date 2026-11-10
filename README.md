@@ -1,6 +1,6 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A101F,45:123047,75:164E63,100:0A101F&height=12&section=header" width="100%" alt="Blue gradient divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,45:14243D,75:164E63,100:080D1A&height=12&section=header" width="100%" alt="Blue gradient divider">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/dark.svg">
@@ -251,7 +251,7 @@ I prefer building features step by step, experimenting with ideas, debugging my 
 
 <h3><code>CONTRIBUTION STREAK</code></h3>
 
-<img src="https://streak-stats.demolab.com/?user=suprio-dev&hide_border=true&background=020617&ring=00FF41&fire=39FF14&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=00FF41&sideLabels=00FF41&dates=64748B" width="100%" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com/?user=suprio-dev&hide_border=true&background=080D1A&ring=22D3EE&fire=67E8F9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=94A3B8" width="100%" alt="GitHub contribution streak">
 
 </td>
 </tr>
@@ -263,22 +263,16 @@ I prefer building features step by step, experimenting with ideas, debugging my 
 
 <h3><code>GITHUB STATS</code></h3>
 
-<img src="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=8&bg_color=020617&title_color=00FF41&text_color=C9D1D9&icon_color=39FF14&include_all_commits=true" width="100%" alt="GitHub statistics">
+<img src="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=8&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&icon_color=67E8F9&include_all_commits=true" width="100%" alt="GitHub statistics">
 
 </td>
 <td width="50%" align="center" valign="top">
 
 <h3><code>TOP LANGUAGES</code></h3>
 
-<img src="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=8&bg_color=020617&title_color=00FF41&text_color=C9D1D9&langs_count=5" width="100%" alt="Most used programming languages">
+<img src="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=8&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&langs_count=5" width="100%" alt="Most used programming languages">
 
 </td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-
 </tr>
 </table>
 
@@ -401,6 +395,6 @@ I'm always open to connecting with fellow developers, learning from the communit
 
 *Learning every day. Building with purpose.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A101F,45:123047,75:164E63,100:0A101F&height=12&section=footer" width="100%" alt="Blue gradient divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,45:14243D,75:164E63,100:080D1A&height=12&section=footer" width="100%" alt="Blue gradient divider">
 
 </div>
