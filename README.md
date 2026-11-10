@@ -87,7 +87,7 @@ Currently strengthening my web development fundamentals while gradually moving t
 
 ### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=java,c,git,github,vscode&theme=dark" alt="Java C Git GitHub VS Code">
+<img src="https://skillicons.dev/icons?i=java,c,git,github,vite,vscode&theme=dark" alt="Java C Git GitHub Vite VS Code">
 
 </td>
 <td width="33%" align="center" valign="top">
