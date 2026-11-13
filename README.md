@@ -10,6 +10,15 @@
 
 <br><br>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=%24+Hello%2C+I'm+Suprio+Adhikary;%24+Aspiring+Software+Developer;%24+Exploring+Backend+Development;%24+Open+Source+Contributor;%24+Building.+Learning.+Shipping."
+    alt="Typing SVG"
+  />
+</p>
+
+<br><br>
+
 <a href="https://github.com/suprio-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub" title="GitHub"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" height="52" alt="LinkedIn" title="LinkedIn"></a>
@@ -26,12 +35,10 @@
 
 <a href="#console"><kbd>&nbsp;01 · Console&nbsp;</kbd></a>
 <a href="#stack"><kbd>&nbsp;02 · Stack&nbsp;</kbd></a>
-<a href="#projects"><kbd>&nbsp;03 · Projects&nbsp;</kbd></a>
-<a href="#workspace"><kbd>&nbsp;04 · Workspace&nbsp;</kbd></a>
-<a href="#stats"><kbd>&nbsp;05 · Stats&nbsp;</kbd></a>
-<a href="#roadmap"><kbd>&nbsp;06 · Roadmap&nbsp;</kbd></a>
-<a href="#philosophy"><kbd>&nbsp;07 · Philosophy&nbsp;</kbd></a>
-<a href="#connect"><kbd>&nbsp;08 · Connect&nbsp;</kbd></a>
+<a href="#workspace"><kbd>&nbsp;03 · Workspace&nbsp;</kbd></a>
+<a href="#stats"><kbd>&nbsp;04 · Stats&nbsp;</kbd></a>
+<a href="#philosophy"><kbd>&nbsp;05 · Philosophy&nbsp;</kbd></a>
+<a href="#connect"><kbd>&nbsp;06 · Connect&nbsp;</kbd></a>
 
 <br><br>
 
@@ -102,108 +109,13 @@ Currently strengthening my web development fundamentals while gradually moving t
 
 <sub>Frontend · Backend · Databases · DevOps</sub>
 
-<br>
-
 *Currently learning and expanding this stack.*
-
-<br>
-
-<a id="projects"></a>
-
-## 03 / Selected Projects
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### [Taskly Todo](https://suprio-dev.github.io/Taskly-Todo-App/)
-
-A task management app with category and priority controls, editing, completion tracking, progress counters, and persistent local storage.
-
-**Stack:** HTML · Tailwind CSS · JavaScript
-
-<sub><code>focus: CRUD · state persistence · progress tracking</code></sub>
-
-[**Live Demo ↗**](https://suprio-dev.github.io/Taskly-Todo-App/) · [Repository](https://github.com/suprio-dev/Taskly-Todo-App)
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### [MovieHub](https://suprio-dev.github.io/MovieHub/)
-
-A responsive movie discovery app with movie search, details, and data powered by the OMDb API.
-
-**Stack:** HTML · Tailwind CSS · JavaScript · OMDb API
-
-<sub><code>focus: API fetching · search · responsive layout</code></sub>
-
-[**Live Demo ↗**](https://suprio-dev.github.io/MovieHub/) · [Repository](https://github.com/suprio-dev/MovieHub)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### [VaultKey](https://suprio-dev.github.io/VaultKey/)
-
-A password generator with adjustable length and character options for creating customizable passwords.
-
-**Stack:** HTML · Tailwind CSS · JavaScript
-
-<sub><code>focus: input controls · string generation logic</code></sub>
-
-[**Live Demo ↗**](https://suprio-dev.github.io/VaultKey/) · [Repository](https://github.com/suprio-dev/VaultKey)
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### [Veyro](https://suprio-dev.github.io/Veyro/)
-
-A Rock Paper Scissors game with a polished interface, smooth interactions, score tracking, and best-of-five gameplay.
-
-**Stack:** HTML · CSS · JavaScript
-
-<sub><code>focus: game state · scoring rules · UI feedback</code></sub>
-
-[**Live Demo ↗**](https://suprio-dev.github.io/Veyro/) · [Repository](https://github.com/suprio-dev/Veyro)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### [Zippy Store](https://suprio-dev.github.io/Zippy-Store/)
-
-A responsive e-commerce web app featuring dynamic product listings, search, category filtering, wishlist, and cart management.
-
-**Stack:** HTML · Tailwind CSS · JavaScript · DummyJSON API · LocalStorage
-
-<sub><code>focus: data fetching · filtering · cart & wishlist state</code></sub>
-
-[**Live Demo ↗**](https://suprio-dev.github.io/Zippy-Store/) · [Repository](https://github.com/suprio-dev/Zippy-Store)
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### [Pop the Beast!](https://suprio-dev.github.io/Pop-the-Beast-/)
-
-A fast-paced arcade game where players catch popping creatures, score points, and race against a countdown timer.
-
-**Stack:** HTML · CSS · Tailwind CSS · JavaScript
-
-<sub><code>focus: timers · event handling · scoring loop</code></sub>
-
-[**Live Demo ↗**](https://suprio-dev.github.io/Pop-the-Beast-/) · [Repository](https://github.com/suprio-dev/Pop-the-Beast-)
-
-</td>
-</tr>
-</table>
 
 <br>
 
 <a id="workspace"></a>
 
-## 04 / Inside My Workspace
+## 03 / Inside My Workspace
 
 <table align="center" width="100%">
 <tr>
@@ -243,7 +155,7 @@ I prefer building features step by step, experimenting with ideas, debugging my 
 
 <a id="stats"></a>
 
-## 05 / Contribution Log
+## 04 / Contribution Log
 
 <table align="center" width="100%">
 <tr>
@@ -290,52 +202,9 @@ I prefer building features step by step, experimenting with ideas, debugging my 
 
 <br>
 
-<a id="roadmap"></a>
-
-## 06 / Learning Roadmap
-
-<table align="center" width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 01 — Strengthen
-
-✅ HTML & CSS fundamentals<br>
-✅ Tailwind CSS<br>
-✅ Git & GitHub<br>
-✅ Advanced JavaScript<br>
-⬜ React<br>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 02 — Build
-
-⬜ Node.js & Express<br>
-✅ REST APIs<br>
-⬜ Databases & authentication
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 03 — Engineer
-
-⬜ Data Structures & Algorithms<br>
-⬜ Backend architecture<br>
-⬜ Networking & DBMS<br>
-⬜ DevOps fundamentals
-
-</td>
-</tr>
-</table>
-
-*The goal isn't to rush through a checklist. It's to understand each layer well enough to build with it.*
-
-<br>
-
 <a id="philosophy"></a>
 
-## 07 / Developer Philosophy
+## 05 / Developer Philosophy
 
 <table align="center" width="100%">
 <tr>
@@ -367,7 +236,7 @@ Every project is an opportunity to improve problem-solving skills.
 
 <a id="connect"></a>
 
-## 08 / Connect
+## 06 / Connect
 
 I'm always open to connecting with fellow developers, learning from the community, and exploring opportunities to build and contribute.
 
