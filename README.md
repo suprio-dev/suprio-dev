@@ -95,7 +95,10 @@ Currently strengthening my web development fundamentals while gradually moving t
 ### Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=java,c,git,github,vite,vscode&theme=dark" alt="Java C Git GitHub Vite VS Code">
-<br><br>
+<img src="https://img.shields.io/badge/Git%20Bash-Terminal-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Git Bash">
+
+<br>
+
 <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding-181717?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
 <img src="https://img.shields.io/badge/CodeRabbit-AI%20Review-FF570A?style=flat-square" alt="CodeRabbit">
 <img src="https://img.shields.io/badge/Sourcery-AI%20Review-8B5CF6?style=flat-square" alt="Sourcery">
