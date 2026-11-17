@@ -13,16 +13,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=%24+Hello%2C+I'm+Suprio+Adhikary;%24+Aspiring+MERN+Stack+Developer;%24+Future+DevOps+Engineer;%24+Building.+Learning.+Shipping.">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=0369A1&center=true&vCenter=true&width=560&height=40&lines=%24+Hello%2C+I'm+Suprio+Adhikary;%24+Aspiring+MERN+Stack+Developer;%24+Future+DevOps+Engineer;%24+Building.+Learning.+Shipping.">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=%24+Hello%2C+I'm+Suprio+Adhikary;%24+Aspiring+MERN+Stack+Developer;%24+Future+DevOps+Engineer;%24+Building.+Learning.+Shipping." alt="Hello, I'm Suprio Adhikary. Aspiring MERN Stack Developer. Future DevOps Engineer.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=%24+Hello%2C+I'm+Suprio+Adhikary;%24+Aspiring+MERN+Stack+Developer;%24+Future+DevOps+Engineer;%24+Building.+Learning.+Shipping." alt="Developer introduction">
 </picture>
 
 <br>
 
-<a href="https://github.com/suprio-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" title="GitHub"></a>
+<a href="https://github.com/suprio-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" title="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn"></a>
 &nbsp;
-<a href="mailto:suprioadhikary802@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email" title="Email"></a>
+<a href="mailto:suprioadhikary802@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email"></a>
 
 <br><br>
 
@@ -34,7 +34,7 @@
 
 <a href="#console"><kbd>&nbsp;Console&nbsp;</kbd></a>
 <a href="#stack"><kbd>&nbsp;Stack&nbsp;</kbd></a>
-<a href="#devops"><kbd>&nbsp;DevOps Path&nbsp;</kbd></a>
+<a href="#mern"><kbd>&nbsp;MERN Path&nbsp;</kbd></a>
 <a href="#workspace"><kbd>&nbsp;Workspace&nbsp;</kbd></a>
 <a href="#stats"><kbd>&nbsp;Stats&nbsp;</kbd></a>
 <a href="#connect"><kbd>&nbsp;Connect&nbsp;</kbd></a>
@@ -51,15 +51,17 @@
 name: Suprio Adhikary
 location: Kolkata, India
 education: B.Tech, Computer Science & Engineering
-now: MERN Stack Development
-next: DevOps Engineering
-learning: [React, Node.js, MongoDB]
+current_focus: React.js
+learning_path: MERN Stack
+long_term_goal: DevOps Engineering
 mindset: Understand deeply. Build consistently.
 ```
 
 I'm a first-year computer science undergraduate who enjoys turning ideas into working projects and understanding how software works under the hood.
 
-Right now I'm building my **MERN stack** foundations. The long-term goal is **DevOps**: automating how code gets built, tested, and deployed so it ships reliably. I care about the logic behind a feature just as much as making it work.
+Right now I'm strengthening my frontend foundations with **React.js** and gradually working towards becoming a full-stack developer. My long-term goal is **DevOps**: automating how code gets built, tested, and deployed so it ships reliably.
+
+I care about the logic behind a feature just as much as making it work.
 
 <br>
 
@@ -96,33 +98,52 @@ Right now I'm building my **MERN stack** foundations. The long-term goal is **De
 
 <br>
 
-<a id="devops"></a>
+<a id="mern"></a>
 
-## DevOps Path
+## MERN Stack Path
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-light.svg">
-  <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-dark.svg" width="700" alt="Pipeline: Code, Build (current), Test, Deploy, Monitor (next)">
-</picture>
+**My Learning Roadmap**
 
 </div>
 
 ```text
-now    -> MERN stack, Git & GitHub workflow
-next   -> Linux, Docker, CI/CD with GitHub Actions
-later  -> Cloud basics, Kubernetes, monitoring
+┌─────────────────────────────────────┐
+│           FRONTEND                  │
+│  HTML → CSS → JavaScript → React   │
+│                                     │
+│  Status: Currently learning React   │
+└──────────────────┬──────────────────┘
+                   ↓
+┌─────────────────────────────────────┐
+│           BACKEND                   │
+│       Node.js → Express.js          │
+│                                     │
+│  Status: Upcoming                   │
+└──────────────────┬──────────────────┘
+                   ↓
+┌─────────────────────────────────────┐
+│           DATABASE                  │
+│              MongoDB                │
+│                                     │
+│  Status: Upcoming                   │
+└──────────────────┬──────────────────┘
+                   ↓
+┌─────────────────────────────────────┐
+│       FULL-STACK DEVELOPMENT        │
+│   REST APIs → Authentication        │
+│   Integration → Deployment          │
+└─────────────────────────────────────┘
 ```
 
-<div align="center">
+**The Roadmap**
 
-**Upcoming toolkit**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws,kubernetes&theme=dark" alt="Linux Docker GitHub Actions AWS Kubernetes">
-
-</div>
+- **Frontend:** Building interactive interfaces with React.
+- **Backend:** Learning server-side development with Node.js and Express.
+- **Database:** Understanding MongoDB and data modelling.
+- **Integration:** Connecting frontend and backend through REST APIs.
+- **Beyond:** Exploring deployment, automation and DevOps.
 
 <br>
 
@@ -130,7 +151,7 @@ later  -> Cloud basics, Kubernetes, monitoring
 
 ## Inside My Workspace
 
-**How I build**
+**How I Build**
 
 ```javascript
 const workflow = [
@@ -142,7 +163,7 @@ const workflow = [
 ];
 ```
 
-**How I use Git**
+**How I Use Git**
 
 ```bash
 git status
@@ -161,26 +182,40 @@ I prefer building features step by step, experimenting with ideas, debugging my 
 
 <div align="center">
 
+<!-- GitHub Contribution Streak -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=suprio-dev&hide_border=true&background=080D1A&ring=22D3EE&fire=67E8F9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=94A3B8">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=suprio-dev&hide_border=true&background=F5F9FC&ring=0891B2&fire=0891B2&currStreakNum=1E293B&sideNums=1E293B&currStreakLabel=0369A1&sideLabels=0369A1&dates=64748B">
   <img src="https://streak-stats.demolab.com/?user=suprio-dev&hide_border=true&background=080D1A&ring=22D3EE&fire=67E8F9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=94A3B8" width="100%" alt="GitHub contribution streak">
 </picture>
 
+<br><br>
+
+<!-- GitHub Statistics and Top Languages: Equal-width cards -->
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=8&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&icon_color=67E8F9&include_all_commits=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=8&bg_color=F5F9FC&title_color=0369A1&text_color=1E293B&icon_color=0F766E&include_all_commits=true">
+        <img src="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=8&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&icon_color=67E8F9&include_all_commits=true" width="100%" alt="GitHub statistics">
+      </picture>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=8&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&langs_count=5">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=8&bg_color=F5F9FC&title_color=0369A1&text_color=1E293B&langs_count=5">
+        <img src="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=8&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&langs_count=5" width="100%" alt="Most used programming languages">
+      </picture>
+    </td>
+  </tr>
+</table>
+
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=8&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&icon_color=67E8F9&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=8&bg_color=F5F9FC&title_color=0369A1&text_color=1E293B&icon_color=0F766E&include_all_commits=true">
-  <img src="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=8&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&icon_color=67E8F9&include_all_commits=true" width="410" alt="GitHub statistics">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=8&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&langs_count=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=8&bg_color=F5F9FC&title_color=0369A1&text_color=1E293B&langs_count=5">
-  <img src="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=8&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&langs_count=5" width="410" alt="Most used programming languages">
-</picture>
-
-<br>
+<!-- GitHub Contribution Snake -->
 
 <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake">
 
@@ -215,13 +250,13 @@ I'm always open to connecting with fellow developers, learning from the communit
 
 <div align="center">
 
-<a href="https://github.com/suprio-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" title="GitHub"></a>
+<a href="https://github.com/suprio-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" title="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn"></a>
 &nbsp;
-<a href="https://www.instagram.com/suprioadhikary_07"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" alt="Instagram" title="Instagram"></a>
+<a href="https://www.instagram.com/suprioadhikary_07"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" height="48" alt="Instagram"></a>
 &nbsp;
-<a href="https://x.com/suprio_a84633"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" alt="X" title="X"></a>
+<a href="https://x.com/suprio_a84633"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="48" height="48" alt="X"></a>
 
 <br><br>
 
