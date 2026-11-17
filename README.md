@@ -95,25 +95,25 @@ I believe in understanding the logic behind a feature rather than simply making 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark" alt="HTML CSS JavaScript Tailwind React">
 
-<br><br>
+<br>
 
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express MongoDB">
 
-<br><br>
+<br>
 
 **Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=java,c&theme=dark" alt="Java C">
 
-<br><br>
+<br>
 
 **Tools & Workflow**
 
 <img src="https://skillicons.dev/icons?i=git,github,vite,npm,bash,vscode&theme=dark" alt="Git GitHub Vite npm Bash VS Code">
 
-<br><br>
+<br>
 
 **AI-Assisted Development**
 
