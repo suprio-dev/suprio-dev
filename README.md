@@ -81,20 +81,17 @@ Currently strengthening my web development fundamentals while gradually moving t
 
 ## 02 / Technology Stack
 
-<table align="center" width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark" alt="HTML CSS JavaScript Tailwind React">
 
-</td>
-<td width="33%" align="center" valign="top">
+### Languages
 
-### Languages & Tools
+<img src="https://skillicons.dev/icons?i=java,c&theme=dark" alt="Java C">
 
-<img src="https://skillicons.dev/icons?i=java,c,git,github,vite,bash,vscode&theme=dark" alt="Java C Git GitHub Vite Bash VS Code">
+### Tools & Developer Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vite,npm,bash,vscode&theme=dark" alt="Git GitHub Vite npm Bash VS Code">
 
 <br>
 
@@ -103,20 +100,13 @@ Currently strengthening my web development fundamentals while gradually moving t
 <img src="https://img.shields.io/badge/Sourcery-AI%20Review-8B5CF6?style=flat-square" alt="Sourcery">
 <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube">
 
-</td>
-<td width="33%" align="center" valign="top">
-
-### Backend & Database
+### Exploring Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express MongoDB">
 
-</td>
-</tr>
-</table>
+*Currently exploring backend development and database technologies.*
 
-<sub>Frontend · Backend · Databases · DevOps</sub>
-
-*Currently learning and expanding this stack.*
+*Continuously learning. Gradually expanding my stack.*
 
 <br>
 
