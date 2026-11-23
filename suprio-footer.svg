@@ -1,70 +1,52 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="100" viewBox="0 0 1200 100"
+     fill="none">
+
   <defs>
-    <linearGradient id="bg" x1="1200" y1="0" x2="0" y2="180" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#080D1A"/>
-      <stop offset=".5" stop-color="#10243A"/>
-      <stop offset="1" stop-color="#080D1A"/>
-    </linearGradient>
-
-    <linearGradient id="flow" x1="1200" y1="0" x2="0" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#164E63" stop-opacity="0"/>
-      <stop offset=".35" stop-color="#22D3EE" stop-opacity=".55"/>
-      <stop offset=".68" stop-color="#67E8F9"/>
+    <linearGradient id="cyan" x1="1200" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#164E63" stop-opacity="0"/>
+      <stop offset=".3" stop-color="#22D3EE" stop-opacity=".7"/>
+      <stop offset=".6" stop-color="#67E8F9"/>
       <stop offset="1" stop-color="#164E63" stop-opacity="0"/>
-      <animate attributeName="x1" values="1700 0;700 0;1700 0" dur="9s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="500 0;-500 0;500 0" dur="9s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
-      <feGaussianBlur stdDeviation="5" result="b"/>
+    <filter id="glow" x="-10%" y="-100%" width="120%" height="300%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feMerge>
-        <feMergeNode in="b"/>
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
 
-  <rect width="1200" height="180" rx="16" fill="url(#bg)"/>
+  <path d="M1200 32 C1020 88 910 8 740 45 S440 85 280 46 S110 20 0 72"
+        stroke="#164E63" stroke-width="1.5" opacity=".55"/>
 
-  <path d="M1230 52 C1040 142 940 16 760 76 S440 148 270 86 90 35 -30 118"
-    stroke="#164E63" stroke-width="2" opacity=".55"/>
+  <path d="M1200 18 C1020 74 910 -6 740 31 S440 71 280 32 S110 6 0 58"
+        stroke="#164E63" stroke-width="1" opacity=".35"/>
 
-  <path d="M1230 35 C1040 125 940 -1 760 59 S440 131 270 69 90 18 -30 101"
-    stroke="#164E63" stroke-width="1" opacity=".4"/>
-
-  <path d="M1230 52 C1040 142 940 16 760 76 S440 148 270 86 90 35 -30 118"
-    stroke="url(#flow)"
-    stroke-width="3"
-    stroke-linecap="round"
-    filter="url(#glow)"
-    stroke-dasharray="260 940">
+  <path d="M1200 32 C1020 88 910 8 740 45 S440 85 280 46 S110 20 0 72"
+        stroke="url(#cyan)"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-dasharray="180 1020"
+        filter="url(#glow)">
     <animate attributeName="stroke-dashoffset"
-      values="0;1200"
-      dur="7s"
-      repeatCount="indefinite"/>
+             values="0;1200"
+             dur="8s"
+             repeatCount="indefinite"/>
   </path>
 
-  <path d="M0 155H1200" stroke="#22D3EE" stroke-opacity=".12"/>
-
   <g fill="#67E8F9">
-    <circle cx="1050" cy="82" r="2" opacity=".65">
-      <animate attributeName="opacity" values=".2;.9;.2" dur="3s" repeatCount="indefinite"/>
+    <circle cx="1020" cy="55" r="1.8">
+      <animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/>
     </circle>
-
-    <circle cx="440" cy="42" r="1.8" opacity=".6">
-      <animate attributeName="opacity" values=".8;.15;.8" dur="4s" repeatCount="indefinite"/>
+    <circle cx="480" cy="35" r="1.5">
+      <animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/>
     </circle>
-
-    <circle cx="170" cy="126" r="2" opacity=".55">
-      <animate attributeName="opacity" values=".15;.8;.15" dur="3.5s" repeatCount="indefinite"/>
+    <circle cx="150" cy="45" r="1.8">
+      <animate attributeName="opacity" values=".2;.9;.2" dur="3.5s" repeatCount="indefinite"/>
     </circle>
   </g>
-
-  <g stroke="#22D3EE" stroke-opacity=".35" stroke-width="1">
-    <path d="M1142 45h-34m17-17v34"/>
-    <path d="M74 42H48m13-13v26"/>
-  </g>
-
-  <path d="M0 .5H1200" stroke="#22D3EE" stroke-opacity=".3"/>
 </svg>
