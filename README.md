@@ -16,6 +16,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=%24+Hello%2C+I'm+Suprio+Adhikary;%24+Aspiring+MERN+Stack+Developer;%24+Currently+Learning+React;%24+Building.+Learning.+Shipping." alt="Developer introduction">
 </picture>
 
+<br>
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/status.svg" width="260" alt="Open to collaboration">
+
 <br><br>
 
 <a href="https://github.com/suprio-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub"></a>
@@ -62,23 +66,7 @@
 
 <div align="center">
 
-<table width="85%">
-<tr>
-<td>
-
-```yaml
-name: Suprio Adhikary
-location: Kolkata, India
-education: B.Tech CSE
-current_focus: React
-building_towards: MERN Stack
-long_term_goal: DevOps Engineering
-mindset: Understand deeply. Build consistently.
-```
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/console.svg" width="85%" alt="Developer console: Suprio Adhikary, Kolkata, B.Tech CSE. Learning React, building the MERN stack, exploring backend and DevOps.">
 
 **Hello, World! 👋**
 
@@ -88,11 +76,6 @@ Currently, I'm learning **React** and strengthening my frontend development foun
 
 I believe in understanding the logic behind a feature rather than simply making it work.
 
-<br>
-
-<kbd> Learning </kbd> &nbsp; React  
-<kbd> Building </kbd> &nbsp; MERN Stack  
-<kbd> Exploring </kbd> &nbsp; Backend & DevOps
 
 </div>
 
@@ -108,36 +91,7 @@ I believe in understanding the logic behind a feature rather than simply making 
 
 <div align="center">
 
-**Frontend Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark" alt="HTML CSS JavaScript Tailwind React">
-
-<br>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express MongoDB">
-
-<br>
-
-**Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=java,c&theme=dark" alt="Java C">
-
-<br>
-
-**Tools & Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vite,npm,bash,vscode&theme=dark" alt="Git GitHub Vite npm Bash VS Code">
-
-<br>
-
-**AI-Assisted Development**
-
-<img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding-181717?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
-<img src="https://img.shields.io/badge/CodeRabbit-AI%20Review-FF570A?style=flat-square" alt="CodeRabbit">
-<img src="https://img.shields.io/badge/Sourcery-AI%20Review-8B5CF6?style=flat-square" alt="Sourcery">
-<img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube">
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stack.svg" width="85%" alt="Tech stack: HTML, CSS, JavaScript, Tailwind, React, Node.js, Express, MongoDB, Java, C, Git, GitHub, Vite, npm, Bash, VS Code, plus AI-assisted tools GitHub Copilot, CodeRabbit, Sourcery and SonarQube">
 
 </div>
 
@@ -175,40 +129,6 @@ I believe in understanding the logic behind a feature rather than simply making 
   <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-dark.svg" width="700" alt="DevOps pipeline">
 </picture>
 
-<br><br>
-
-<table width="85%">
-<tr>
-<td align="center" width="33%">
-
-**01 · NOW**
-
-MERN Stack
-
-Git & GitHub
-
-</td>
-<td align="center" width="33%">
-
-**02 · NEXT**
-
-Linux
-
-Docker · CI/CD
-
-</td>
-<td align="center" width="33%">
-
-**03 · LATER**
-
-Cloud
-
-Kubernetes · Monitoring
-
-</td>
-</tr>
-</table>
-
 <br>
 
 **Upcoming Toolkit**
@@ -235,49 +155,11 @@ Kubernetes · Monitoring
 
 <div align="center">
 
-<table width="85%">
-<tr>
-<td align="center" width="50%">
-
-### ⚙️ Development Workflow
-
-<br>
-
-```javascript
-const workflow = [
-  "Understand the problem",
-  "Break it into steps",
-  "Build the core logic",
-  "Test and debug",
-  "Refine and ship"
-];
-```
-
-</td>
-<td align="center" width="50%">
-
-### ⌘ Git Workflow
-
-<br>
-
-```bash
-git status
-git add .
-git commit -m "feat: add functionality"
-git push origin main
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
 I enjoy building features step by step, experimenting with ideas, debugging my own code, and learning from what doesn't work.
 
 **Think → Build → Debug → Improve → Ship**
 
-<br><br>
+<br>
 
 **The Project Structure I'm Growing Towards**
 
@@ -374,9 +256,7 @@ I enjoy building features step by step, experimenting with ideas, debugging my o
 <tr>
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/status.svg" width="260" alt="Open to collaboration">
-
-<br>
+### Open to Collaboration
 
 I'm always interested in connecting with fellow developers, contributing to open source, learning from the community, and building meaningful projects together.
 
