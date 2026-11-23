@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="478" viewBox="0 0 800 478" xmlns:c2pa="http://c2pa.org/manifest">
+<defs><linearGradient id="vg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#FBBF24"/></linearGradient></defs>
+<text x="400" y="24" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="2" fill="#0891B2">FRONTEND</text><line x1="275" y1="20" x2="353" y2="20" stroke="#22D3EE" stroke-opacity="0.35"/><line x1="447" y1="20" x2="525" y2="20" stroke="#22D3EE" stroke-opacity="0.35"/>
+<g transform="translate(200,74)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.2143;0.6429;1" dur="0.7s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="0.00s" repeatCount="indefinite"/>
+    <clipPath id="t0"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><text y="5.9" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="17" font-weight="800"  fill="#FB923C">&lt;/&gt;</text></g>
+    <g clip-path="url(#t0)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="0.00s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">HTML</text>
+  </g></g></g>
+<g transform="translate(300,74)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.3293;0.6951;1" dur="0.82s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="2.77s" repeatCount="indefinite"/>
+    <clipPath id="t1"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#38BDF8" fill-opacity="0.13" stroke="#38BDF8" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><text y="6.6" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19" font-weight="800"  fill="#38BDF8">{ }</text></g>
+    <g clip-path="url(#t1)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="0.35s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">CSS</text>
+  </g></g></g>
+<g transform="translate(400,74)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.4149;0.734;1" dur="0.94s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="2.34s" repeatCount="indefinite"/>
+    <clipPath id="t2"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#FACC15"/>
+    <g><text y="7.3" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="21" font-weight="800"  fill="#0B1220">JS</text></g>
+    <g clip-path="url(#t2)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="0.70s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">JavaScript</text>
+  </g></g></g>
+<g transform="translate(500,74)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.4811;0.7642;1" dur="1.06s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="1.91s" repeatCount="indefinite"/>
+    <clipPath id="t3"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><path d="M27 0c-7.2 0-11.7 3.6-13.5 10.8 2.7-3.6 5.85-4.95 9.45-4.05 2.054.513 3.522 2.004 5.147 3.653C30.744 13.09 33.808 16.2 40.5 16.2c7.2 0 11.7-3.6 13.5-10.8-2.7 3.6-5.85 4.95-9.45 4.05-2.054-.513-3.522-2.004-5.147-3.653C36.756 3.11 33.692 0 27 0zM13.5 16.2C6.3 16.2 1.8 19.8 0 27c2.7-3.6 5.85-4.95 9.45-4.05 2.054.514 3.522 2.004 5.147 3.653C17.244 29.29 20.308 32.4 27 32.4c7.2 0 11.7-3.6 13.5-10.8-2.7 3.6-5.85 4.95-9.45 4.05-2.054-.513-3.522-2.004-5.147-3.653C23.256 19.31 20.192 16.2 13.5 16.2z" transform="translate(-16.2,-9.7) scale(0.6)" fill="#22D3EE"/></g>
+    <g clip-path="url(#t3)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="1.05s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">Tailwind</text>
+  </g></g></g>
+<g transform="translate(600,74)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.5339;0.7881;1" dur="1.18s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="1.48s" repeatCount="indefinite"/>
+    <clipPath id="t4"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#38BDF8" fill-opacity="0.13" stroke="#38BDF8" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><g><animateTransform attributeName="transform" type="rotate" values="0;360" dur="9s" repeatCount="indefinite"/><ellipse rx="17" ry="6.5" transform="rotate(0)" fill="none" stroke="#38BDF8" stroke-width="1.8"/><ellipse rx="17" ry="6.5" transform="rotate(60)" fill="none" stroke="#38BDF8" stroke-width="1.8"/><ellipse rx="17" ry="6.5" transform="rotate(120)" fill="none" stroke="#38BDF8" stroke-width="1.8"/></g><circle r="3" fill="#38BDF8"><animate attributeName="r" values="3;4.2;3" dur="1.6s" repeatCount="indefinite"/></circle></g>
+    <g clip-path="url(#t4)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="1.40s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">React</text>
+  </g></g></g>
+<text x="245" y="154" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="2" fill="#0891B2">BACKEND &amp; DATABASES</text><line x1="105" y1="150" x2="183" y2="150" stroke="#22D3EE" stroke-opacity="0.35"/><line x1="307" y1="150" x2="385" y2="150" stroke="#22D3EE" stroke-opacity="0.35"/>
+<g transform="translate(155,204)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.5769;0.8077;1" dur="1.3s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="1.05s" repeatCount="indefinite"/>
+    <clipPath id="t5"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#4ADE80" fill-opacity="0.13" stroke="#4ADE80" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><polygon points="0,-19 16.5,-9.5 16.5,9.5 0,19 -16.5,9.5 -16.5,-9.5" fill="none" stroke="#4ADE80" stroke-width="2.2" stroke-linejoin="round"/><text y="5.6" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="16" font-weight="800" fill="#4ADE80">N</text></g>
+    <g clip-path="url(#t5)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="1.75s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">Node.js</text>
+  </g></g></g>
+<g transform="translate(245,204)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.6127;0.8239;1" dur="1.42s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="0.62s" repeatCount="indefinite"/>
+    <clipPath id="t6"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#94A3B8" fill-opacity="0.13" stroke="#94A3B8" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><text y="7.3" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="21" font-weight="800" font-style="italic" fill="#94A3B8">ex</text></g>
+    <g clip-path="url(#t6)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="2.10s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">Express</text>
+  </g></g></g>
+<g transform="translate(335,204)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.6429;0.8377;1" dur="1.54s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="0.19s" repeatCount="indefinite"/>
+    <clipPath id="t7"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><path d="M0 -20 C9 -10 12 0 8 10 C6 14 3 17 1 20 L-1 20 C-3 17 -6 14 -8 10 C-12 0 -9 -10 0 -20 Z" fill="#34D399" fill-opacity="0.85"/><path d="M0 -12 V18" stroke="#0B1220" stroke-opacity="0.45" stroke-width="1.4"/></g>
+    <g clip-path="url(#t7)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="2.45s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">MongoDB</text>
+  </g></g></g>
+<text x="590" y="154" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="2" fill="#0891B2">LANGUAGES</text><line x1="490" y1="150" x2="568" y2="150" stroke="#22D3EE" stroke-opacity="0.35"/><line x1="612" y1="150" x2="690" y2="150" stroke="#22D3EE" stroke-opacity="0.35"/>
+<g transform="translate(545,204)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.6687;0.8494;1" dur="1.66s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="2.96s" repeatCount="indefinite"/>
+    <clipPath id="t8"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><g transform="translate(0,-2)"><path d="M-13 -2 H7 V7 C7 13 3 16 -3 16 C-9 16 -13 13 -13 7 Z" fill="none" stroke="#F87171" stroke-width="2"/><path d="M7 1 C14 1 14 11 7 11" fill="none" stroke="#F87171" stroke-width="2"/><path d="M-18 19 H12" stroke="#F87171" stroke-width="2" stroke-linecap="round"/><path d="M-7 -6 q-3 -4 0 -8" stroke="#F87171" stroke-width="1.8" fill="none" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/></path><path d="M-1 -6 q-3 -4 0 -8" stroke="#F87171" stroke-width="1.8" fill="none" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.8s" repeatCount="indefinite"/></path></g></g>
+    <g clip-path="url(#t8)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="2.80s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">Java</text>
+  </g></g></g>
+<g transform="translate(635,204)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.691;0.8596;1" dur="1.78s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="2.53s" repeatCount="indefinite"/>
+    <clipPath id="t9"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><polygon points="0,-19 16.5,-9.5 16.5,9.5 0,19 -16.5,9.5 -16.5,-9.5" fill="none" stroke="#60A5FA" stroke-width="2.2" stroke-linejoin="round"/><text y="6.6" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19" font-weight="800" fill="#60A5FA">C</text></g>
+    <g clip-path="url(#t9)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="3.15s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">C</text>
+  </g></g></g>
+<text x="400" y="282" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="2" fill="#0891B2">TOOLS &amp; WORKFLOW</text><line x1="260" y1="278" x2="338" y2="278" stroke="#22D3EE" stroke-opacity="0.35"/><line x1="462" y1="278" x2="540" y2="278" stroke="#22D3EE" stroke-opacity="0.35"/>
+<g transform="translate(150,332)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.7105;0.8684;1" dur="1.9s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="2.10s" repeatCount="indefinite"/>
+    <clipPath id="t10"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#FB7A5C" fill-opacity="0.13" stroke="#FB7A5C" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><path d="M0 -11 V11 M0 4 C0 -3 10 -1 10 -6" fill="none" stroke="#FB7A5C" stroke-width="2.4" stroke-linecap="round"/><circle cx="0" cy="-11" r="3.6" fill="#FB7A5C"><animate attributeName="r" values="3.6;5.2;3.6" dur="1.8s" begin="0s" repeatCount="indefinite"/></circle><circle cx="0" cy="11" r="3.6" fill="#FB7A5C"><animate attributeName="r" values="3.6;5.2;3.6" dur="1.8s" begin="0.6s" repeatCount="indefinite"/></circle><circle cx="10" cy="-6" r="3.6" fill="#FB7A5C"><animate attributeName="r" values="3.6;5.2;3.6" dur="1.8s" begin="1.2s" repeatCount="indefinite"/></circle></g>
+    <g clip-path="url(#t10)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="3.50s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">Git</text>
+  </g></g></g>
+<g transform="translate(250,332)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.7277;0.8762;1" dur="2.02s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="1.67s" repeatCount="indefinite"/>
+    <clipPath id="t11"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#94A3B8" fill-opacity="0.13" stroke="#94A3B8" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" transform="translate(-15.5,-15.5) scale(1.94)" fill="#94A3B8"/></g>
+    <g clip-path="url(#t11)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="3.85s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">GitHub</text>
+  </g></g></g>
+<g transform="translate(350,332)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.743;0.8832;1" dur="2.14s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="1.24s" repeatCount="indefinite"/>
+    <clipPath id="t12"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><path d="M2 -19 L-13 3 H-3 L-6 19 L13 -6 H3 Z" fill="url(#vg)"><animate attributeName="opacity" values="1;0.65;1" dur="1.8s" repeatCount="indefinite"/></path></g>
+    <g clip-path="url(#t12)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="4.20s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">Vite</text>
+  </g></g></g>
+<g transform="translate(450,332)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.7566;0.8894;1" dur="2.26s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="0.81s" repeatCount="indefinite"/>
+    <clipPath id="t13"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><text y="5.6" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="16" font-weight="800"  fill="#F87171">npm</text></g>
+    <g clip-path="url(#t13)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="4.55s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">npm</text>
+  </g></g></g>
+<g transform="translate(550,332)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.7689;0.895;1" dur="2.38s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="0.38s" repeatCount="indefinite"/>
+    <clipPath id="t14"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><text x="-7" y="6.6" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="19" font-weight="800"  fill="#A3E635">&gt;</text><rect x="3" y="5" width="10" height="3.2" fill="#A3E635"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g>
+    <g clip-path="url(#t14)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="4.90s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">Bash</text>
+  </g></g></g>
+<g transform="translate(650,332)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.15;1" keyTimes="0;0.78;0.9;1" dur="2.5s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="3.15s" repeatCount="indefinite"/>
+    <clipPath id="t15"><rect x="-30" y="-30" width="60" height="60" rx="15"/></clipPath>
+    <rect x="-30" y="-30" width="60" height="60" rx="15" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.75" stroke-width="1.8"/>
+    <g><path d="M13 -17 L-3 -3 L-12 -10 L-16 -8 V8 L-12 10 L-3 3 L13 17 L17 15 V-15 Z" fill="none" stroke="#60A5FA" stroke-width="2.2" stroke-linejoin="round"/><path d="M13 -17 V17" stroke="#60A5FA" stroke-width="2"/></g>
+    <g clip-path="url(#t15)"><rect x="-70" y="-40" width="14" height="80" fill="#fff" opacity="0.3" transform="rotate(20)"><animate attributeName="x" values="-70;70;70" keyTimes="0;0.25;1" dur="5s" begin="0.25s" repeatCount="indefinite"/></rect></g>
+    <text y="46" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#64748B">VS Code</text>
+  </g></g></g>
+<text x="400" y="414" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" letter-spacing="2" fill="#0891B2">AI-ASSISTED DEVELOPMENT</text><line x1="235" y1="410" x2="313" y2="410" stroke="#22D3EE" stroke-opacity="0.35"/><line x1="487" y1="410" x2="565" y2="410" stroke="#22D3EE" stroke-opacity="0.35"/>
+<g transform="translate(220.0,446)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.12;1" keyTimes="0;0.7901;0.9046;1" dur="2.62s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="1.00s" repeatCount="indefinite"/>
+  <rect x="-72.0" y="-15" width="144" height="30" rx="15" fill="#94A3B8" fill-opacity="0.13" stroke="#94A3B8" stroke-opacity="0.75" stroke-width="1.6"/>
+  <circle cx="-56.0" cy="0" r="4" fill="#94A3B8"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" begin="4.8s" repeatCount="indefinite"/></circle>
+  <text x="-44.0" y="4.5" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="#64748B">GitHub Copilot</text></g></g></g>
+<g transform="translate(363.0,446)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.12;1" keyTimes="0;0.7993;0.9088;1" dur="2.74s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="0.50s" repeatCount="indefinite"/>
+  <rect x="-57.0" y="-15" width="114" height="30" rx="15" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.75" stroke-width="1.6"/>
+  <circle cx="-41.0" cy="0" r="4" fill="#FB923C"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" begin="5.1s" repeatCount="indefinite"/></circle>
+  <text x="-29.0" y="4.5" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="#FB923C">CodeRabbit</text></g></g></g>
+<g transform="translate(483.0,446)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.12;1" keyTimes="0;0.8077;0.9126;1" dur="2.86s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="0.00s" repeatCount="indefinite"/>
+  <rect x="-49.0" y="-15" width="98" height="30" rx="15" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.75" stroke-width="1.6"/>
+  <circle cx="-33.0" cy="0" r="4" fill="#A78BFA"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" begin="5.3999999999999995s" repeatCount="indefinite"/></circle>
+  <text x="-21.0" y="4.5" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="#A78BFA">Sourcery</text></g></g></g>
+<g transform="translate(599.0,446)"><g>
+  <animateTransform attributeName="transform" type="scale" values="0;0;1.12;1" keyTimes="0;0.8154;0.9161;1" dur="2.98s" fill="freeze"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3s" begin="2.50s" repeatCount="indefinite"/>
+  <rect x="-53.0" y="-15" width="106" height="30" rx="15" fill="#38BDF8" fill-opacity="0.13" stroke="#38BDF8" stroke-opacity="0.75" stroke-width="1.6"/>
+  <circle cx="-37.0" cy="0" r="4" fill="#38BDF8"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" begin="5.7s" repeatCount="indefinite"/></circle>
+  <text x="-25.0" y="4.5" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="#38BDF8">SonarQube</text></g></g></g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmZGVhNWU3OS1mNjEwLTQxMWYtYjc5Yy05MzFlNGM0ZDFlMzIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGx4gyikN4G2NCJA2F5laRMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0MjJmOWMxNC0zMThiLTQwZDktYjE3NC1hZWI5ZDg0ZWFmZmJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNounX+BgO3CvilhlP4NlBiWgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg/EW7r+5OxWYaazQY2NTpBDisha8mrlEj6lOItXNHjQ6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGi1gDIAnQ+vYqFUz/pv9+8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIGst8Cjc1z65LRPvLiSmBQcJtNsQo9DsDL6/hHJrlDcYZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GWaYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmZkZWE1ZTc5LWY2MTAtNDExZi1iNzljLTkzMWU0YzRkMWUzMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmMyYTYwYmY4LWVmYjctNGM0NC05YjE3LTgwZDc2Nzc3YzQzNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD8Rbuv7k7FZhprNBjY1OkEOKyFryauUSPqU4i1c0eNDqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg0o5G70DN4DI7zUB8Pbj9lSJCL/RJ7ma6yFRwGANAfIuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggbK1adfLL3B8TmA6Owff7DkMdQOY0nYf6TwKbgHg7LlV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIQUlyfGhfiXqcCCiM6+5ht7JYiUnsBPm6LKgzjTNiNA0/laMCwX7Ea8XtPP+0SvpimSmGVhfJGFGqgaE8cLBM8=</c2pa:manifest></metadata></svg>
