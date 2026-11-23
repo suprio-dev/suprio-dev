@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,45:14243D,75:164E63,100:22D3EE&height=140&section=header" width="100%" alt="Animated wave header">
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/suprio-header.svg" width="100%" alt="Animated header" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/dark.svg">
@@ -296,6 +296,6 @@ I'm always interested in connecting with fellow developers, contributing to open
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,45:14243D,75:164E63,100:22D3EE&height=120&section=footer" width="100%" alt="Animated wave footer">
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/suprio-footer.svg" width="100%" alt="Animated footer" />
 
 </div>
