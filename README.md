@@ -16,10 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=%24+Hello%2C+I'm+Suprio+Adhikary;%24+Aspiring+MERN+Stack+Developer;%24+Currently+Learning+React;%24+Building.+Learning.+Shipping." alt="Developer introduction">
 </picture>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/status.svg" width="260" alt="Open to collaboration">
-
 <br><br>
 
 <a href="https://github.com/suprio-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub"></a>
@@ -356,68 +352,9 @@ I enjoy building features step by step, experimenting with ideas, debugging my o
 
 <br><br>
 
-### Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=suprio-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" width="100%" alt="GitHub trophies">
-
-<br><br>
-
 ### Contribution Snake
 
 <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake">
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
-
-<br>
-
-<a id="philosophy"></a>
-
-## Developer Philosophy
-
-<div align="center">
-
-<table width="85%">
-<tr>
-<td align="center">
-
-**01 · Understand Before Implementing**
-
-Learn the logic instead of relying on copy-paste.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**02 · Consistency Over Perfection**
-
-Small, meaningful progress compounds over time.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**03 · Build to Learn**
-
-Every project sharpens problem-solving skills.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**04 · Automate the Boring Parts**
-
-If I do it twice, I'll script it.
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -437,7 +374,9 @@ If I do it twice, I'll script it.
 <tr>
 <td align="center">
 
-### Open to Collaboration
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/status.svg" width="260" alt="Open to collaboration">
+
+<br>
 
 I'm always interested in connecting with fellow developers, contributing to open source, learning from the community, and building meaningful projects together.
 
