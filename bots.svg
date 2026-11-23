@@ -1,0 +1,256 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 40 800 180" xmlns:c2pa="http://c2pa.org/manifest">
+  <line x1="0" y1="204" x2="800" y2="204" stroke="#94A3B8" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="6 8"/>
+  
+<g transform="translate(76,204)" color="#22D3EE">
+  <clipPath id="clip0"><rect x="88" y="-107" width="88" height="52"/></clipPath>
+  <!-- bot body -->
+  <ellipse cx="0" cy="1" rx="24" ry="3" fill="#000" fill-opacity="0.15"/>
+  <rect x="-21" y="-14" width="42" height="14" rx="7" fill="#475569"/>
+  <circle cx="-11" cy="-7" r="3" fill="#94A3B8"/><circle cx="0" cy="-7" r="3" fill="#94A3B8"/><circle cx="11" cy="-7" r="3" fill="#94A3B8"/>
+  <rect x="-18" y="-52" width="36" height="38" rx="10" fill="currentColor"/>
+  <circle cx="0" cy="-34" r="6" fill="#0B1220"/>
+  <circle cx="0" cy="-34" r="3" fill="#67E8F9"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0" dur="0.8s" repeatCount="indefinite"/>
+    <rect x="-29" y="-80" width="6" height="14" rx="3" fill="currentColor"/>
+    <rect x="23" y="-80" width="6" height="14" rx="3" fill="currentColor"/>
+    <rect x="-24" y="-92" width="48" height="38" rx="14" fill="currentColor"/>
+    <rect x="-18" y="-86" width="36" height="26" rx="10" fill="#0B1220"/>
+    <ellipse cx="-7" cy="-74" rx="3.5" ry="4" fill="#67E8F9"><animate attributeName="ry" values="4;4;0.6;4" keyTimes="0;0.9;0.95;1" dur="3.6s" begin="0.0s" repeatCount="indefinite"/></ellipse><ellipse cx="7" cy="-74" rx="3.5" ry="4" fill="#67E8F9"><animate attributeName="ry" values="4;4;0.6;4" keyTimes="0;0.9;0.95;1" dur="3.6s" begin="0.0s" repeatCount="indefinite"/></ellipse>
+    <path d="M-5 -66 Q0 -62 5 -66" stroke="#67E8F9" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <line x1="0" y1="-92" x2="0" y2="-102" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="0" cy="-105" r="4" fill="#FBBF24"><animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- desk -->
+  <rect x="24" y="-34" width="176" height="6" rx="3" fill="#94A3B8"/>
+  <rect x="32" y="-28" width="5" height="28" fill="#94A3B8" fill-opacity="0.6"/>
+  <rect x="188" y="-28" width="5" height="28" fill="#94A3B8" fill-opacity="0.6"/>
+  <rect x="28" y="-38" width="46" height="4" rx="2" fill="#475569"/>
+  <!-- monitor -->
+  <rect x="126" y="-48" width="12" height="11" fill="#94A3B8"/>
+  <rect x="112" y="-37" width="40" height="3" rx="1.5" fill="#94A3B8"/>
+  <rect x="82" y="-120" width="100" height="72" rx="7" fill="#0B1220" stroke="currentColor" stroke-width="2.5"/>
+  <circle cx="92" cy="-114" r="1.8" fill="#F87171"/><circle cx="98" cy="-114" r="1.8" fill="#FBBF24"/><circle cx="104" cy="-114" r="1.8" fill="#34D399"/>
+  <g clip-path="url(#clip0)"><g transform="translate(90,-104)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -45" dur="3s" repeatCount="indefinite"/>
+      <rect x="0" y="0" width="60" height="4" rx="2" fill="#22D3EE"/>
+      <rect x="10" y="9" width="44" height="4" rx="2" fill="#A78BFA"/>
+      <rect x="10" y="18" width="70" height="4" rx="2" fill="#34D399"/>
+      <rect x="0" y="27" width="30" height="4" rx="2" fill="#FBBF24"/>
+      <rect x="10" y="36" width="52" height="4" rx="2" fill="#F472B6"/>
+      <rect x="0" y="45" width="60" height="4" rx="2" fill="#22D3EE"/>
+      <rect x="10" y="54" width="44" height="4" rx="2" fill="#A78BFA"/>
+      <rect x="10" y="63" width="70" height="4" rx="2" fill="#34D399"/>
+      <rect x="0" y="72" width="30" height="4" rx="2" fill="#FBBF24"/>
+      <rect x="10" y="81" width="52" height="4" rx="2" fill="#F472B6"/>
+      <rect x="0" y="90" width="60" height="4" rx="2" fill="#22D3EE"/>
+      <rect x="10" y="99" width="44" height="4" rx="2" fill="#A78BFA"/>
+      <rect x="10" y="108" width="70" height="4" rx="2" fill="#34D399"/>
+      <rect x="0" y="117" width="30" height="4" rx="2" fill="#FBBF24"/>
+      <rect x="10" y="126" width="52" height="4" rx="2" fill="#F472B6"/>
+  </g></g></g>
+  <!-- mug -->
+  <rect x="187" y="-46" width="10" height="12" rx="2" fill="#F59E0B"/>
+  <path d="M197 -43 q4 0 0 6" stroke="#F59E0B" stroke-width="1.6" fill="none"/>
+  <path d="M190 -50 q-3 -4 0 -8" stroke="#94A3B8" stroke-width="1.3" fill="none" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite"/></path>
+  <path d="M194 -50 q-3 -4 0 -8" stroke="#94A3B8" stroke-width="1.3" fill="none" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="2s" begin="0.9s" repeatCount="indefinite"/></path>
+  <!-- typing arms -->
+  <line x1="16" y1="-42" x2="42" y2="-40" stroke="currentColor" stroke-width="7" stroke-linecap="round"><animate attributeName="y2" values="-40;-45;-40" dur="0.4s" repeatCount="indefinite"/></line>
+  <line x1="16" y1="-34" x2="58" y2="-40" stroke="currentColor" stroke-width="7" stroke-linecap="round"><animate attributeName="y2" values="-40;-45;-40" dur="0.4s" begin="0.2s" repeatCount="indefinite"/></line>
+  <!-- floating code symbols -->
+  <text x="118" y="-126" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="currentColor" opacity="0">&lt;/&gt;
+    <animate attributeName="opacity" values="0;0.9;0" dur="3s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -18" dur="3s" repeatCount="indefinite"/></text>
+  <text x="152" y="-126" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="currentColor" opacity="0">{ }
+    <animate attributeName="opacity" values="0;0.9;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -18" dur="3s" begin="1.5s" repeatCount="indefinite"/></text>
+  <g opacity="1">
+  <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.45;0.5;1" dur="8s" begin="0s" repeatCount="indefinite"/>
+  <rect x="-41.5" y="-148" width="103" height="24" rx="12" fill="#22D3EE" fill-opacity="0.14" stroke="#22D3EE" stroke-opacity="0.7"/>
+  <path d="M4 -125 L10 -117 L16 -125 Z" fill="#22D3EE" fill-opacity="0.45"/>
+  <text x="10" y="-132" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#0891B2">npm run dev</text>
+</g>
+  <g opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5;0.55;0.95;1" dur="8s" begin="0s" repeatCount="indefinite"/>
+  <rect x="-38.0" y="-148" width="96" height="24" rx="12" fill="#22D3EE" fill-opacity="0.14" stroke="#22D3EE" stroke-opacity="0.7"/>
+  <path d="M4 -125 L10 -117 L16 -125 Z" fill="#22D3EE" fill-opacity="0.45"/>
+  <text x="10" y="-132" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#0891B2">git commit</text>
+</g>
+</g>
+  
+<g transform="translate(336,204)" color="#34D399">
+  <clipPath id="clip1"><rect x="88" y="-107" width="88" height="52"/></clipPath>
+  <!-- bot body -->
+  <ellipse cx="0" cy="1" rx="24" ry="3" fill="#000" fill-opacity="0.15"/>
+  <rect x="-21" y="-14" width="42" height="14" rx="7" fill="#475569"/>
+  <circle cx="-11" cy="-7" r="3" fill="#94A3B8"/><circle cx="0" cy="-7" r="3" fill="#94A3B8"/><circle cx="11" cy="-7" r="3" fill="#94A3B8"/>
+  <rect x="-18" y="-52" width="36" height="38" rx="10" fill="currentColor"/>
+  <circle cx="0" cy="-34" r="6" fill="#0B1220"/>
+  <circle cx="0" cy="-34" r="3" fill="#67E8F9"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0" dur="0.8s" repeatCount="indefinite"/>
+    <rect x="-29" y="-80" width="6" height="14" rx="3" fill="currentColor"/>
+    <rect x="23" y="-80" width="6" height="14" rx="3" fill="currentColor"/>
+    <rect x="-24" y="-92" width="48" height="38" rx="14" fill="currentColor"/>
+    <rect x="-18" y="-86" width="36" height="26" rx="10" fill="#0B1220"/>
+    <ellipse cx="-7" cy="-74" rx="3.5" ry="4" fill="#67E8F9"><animate attributeName="ry" values="4;4;0.6;4" keyTimes="0;0.9;0.95;1" dur="3.6s" begin="0.7s" repeatCount="indefinite"/></ellipse><ellipse cx="7" cy="-74" rx="3.5" ry="4" fill="#67E8F9"><animate attributeName="ry" values="4;4;0.6;4" keyTimes="0;0.9;0.95;1" dur="3.6s" begin="0.7s" repeatCount="indefinite"/></ellipse>
+    <path d="M-5 -66 Q0 -62 5 -66" stroke="#67E8F9" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <line x1="0" y1="-92" x2="0" y2="-102" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="0" cy="-105" r="4" fill="#FBBF24"><animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- desk -->
+  <rect x="24" y="-34" width="176" height="6" rx="3" fill="#94A3B8"/>
+  <rect x="32" y="-28" width="5" height="28" fill="#94A3B8" fill-opacity="0.6"/>
+  <rect x="188" y="-28" width="5" height="28" fill="#94A3B8" fill-opacity="0.6"/>
+  <rect x="28" y="-38" width="46" height="4" rx="2" fill="#475569"/>
+  <!-- monitor -->
+  <rect x="126" y="-48" width="12" height="11" fill="#94A3B8"/>
+  <rect x="112" y="-37" width="40" height="3" rx="1.5" fill="#94A3B8"/>
+  <rect x="82" y="-120" width="100" height="72" rx="7" fill="#0B1220" stroke="currentColor" stroke-width="2.5"/>
+  <circle cx="92" cy="-114" r="1.8" fill="#F87171"/><circle cx="98" cy="-114" r="1.8" fill="#FBBF24"/><circle cx="104" cy="-114" r="1.8" fill="#34D399"/>
+  <g clip-path="url(#clip1)"><g transform="translate(90,-104)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -45" dur="3s" repeatCount="indefinite"/>
+      <rect x="0" y="0" width="40" height="4" rx="2" fill="#34D399"/>
+      <rect x="10" y="9" width="66" height="4" rx="2" fill="#FBBF24"/>
+      <rect x="10" y="18" width="34" height="4" rx="2" fill="#22D3EE"/>
+      <rect x="0" y="27" width="72" height="4" rx="2" fill="#F472B6"/>
+      <rect x="10" y="36" width="48" height="4" rx="2" fill="#A78BFA"/>
+      <rect x="0" y="45" width="40" height="4" rx="2" fill="#34D399"/>
+      <rect x="10" y="54" width="66" height="4" rx="2" fill="#FBBF24"/>
+      <rect x="10" y="63" width="34" height="4" rx="2" fill="#22D3EE"/>
+      <rect x="0" y="72" width="72" height="4" rx="2" fill="#F472B6"/>
+      <rect x="10" y="81" width="48" height="4" rx="2" fill="#A78BFA"/>
+      <rect x="0" y="90" width="40" height="4" rx="2" fill="#34D399"/>
+      <rect x="10" y="99" width="66" height="4" rx="2" fill="#FBBF24"/>
+      <rect x="10" y="108" width="34" height="4" rx="2" fill="#22D3EE"/>
+      <rect x="0" y="117" width="72" height="4" rx="2" fill="#F472B6"/>
+      <rect x="10" y="126" width="48" height="4" rx="2" fill="#A78BFA"/>
+  </g></g></g>
+  <!-- mug -->
+  <rect x="187" y="-46" width="10" height="12" rx="2" fill="#F59E0B"/>
+  <path d="M197 -43 q4 0 0 6" stroke="#F59E0B" stroke-width="1.6" fill="none"/>
+  <path d="M190 -50 q-3 -4 0 -8" stroke="#94A3B8" stroke-width="1.3" fill="none" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite"/></path>
+  <path d="M194 -50 q-3 -4 0 -8" stroke="#94A3B8" stroke-width="1.3" fill="none" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="2s" begin="0.9s" repeatCount="indefinite"/></path>
+  <!-- typing arms -->
+  <line x1="16" y1="-42" x2="42" y2="-40" stroke="currentColor" stroke-width="7" stroke-linecap="round"><animate attributeName="y2" values="-40;-45;-40" dur="0.4s" repeatCount="indefinite"/></line>
+  <line x1="16" y1="-34" x2="58" y2="-40" stroke="currentColor" stroke-width="7" stroke-linecap="round"><animate attributeName="y2" values="-40;-45;-40" dur="0.4s" begin="0.2s" repeatCount="indefinite"/></line>
+  <!-- floating code symbols -->
+  <text x="118" y="-126" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="currentColor" opacity="0">&lt;/&gt;
+    <animate attributeName="opacity" values="0;0.9;0" dur="3s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -18" dur="3s" repeatCount="indefinite"/></text>
+  <text x="152" y="-126" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="currentColor" opacity="0">{ }
+    <animate attributeName="opacity" values="0;0.9;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -18" dur="3s" begin="1.5s" repeatCount="indefinite"/></text>
+  <g opacity="1">
+  <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.45;0.5;1" dur="8s" begin="-2.7s" repeatCount="indefinite"/>
+  <rect x="-52.0" y="-148" width="124" height="24" rx="12" fill="#34D399" fill-opacity="0.14" stroke="#34D399" stroke-opacity="0.7"/>
+  <path d="M4 -125 L10 -117 L16 -125 Z" fill="#34D399" fill-opacity="0.45"/>
+  <text x="10" y="-132" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#059669">docker build .</text>
+</g>
+  <g opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5;0.55;0.95;1" dur="8s" begin="-2.7s" repeatCount="indefinite"/>
+  <rect x="-56.0" y="-148" width="132" height="24" rx="12" fill="#34D399" fill-opacity="0.14" stroke="#34D399" stroke-opacity="0.7"/>
+  <path d="M4 -125 L10 -117 L16 -125 Z" fill="#34D399" fill-opacity="0.45"/>
+  <text x="10" y="-132" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#059669">git push origin</text>
+</g>
+</g>
+  
+<g transform="translate(596,204)" color="#A78BFA">
+  <clipPath id="clip2"><rect x="88" y="-107" width="88" height="52"/></clipPath>
+  <!-- bot body -->
+  <ellipse cx="0" cy="1" rx="24" ry="3" fill="#000" fill-opacity="0.15"/>
+  <rect x="-21" y="-14" width="42" height="14" rx="7" fill="#475569"/>
+  <circle cx="-11" cy="-7" r="3" fill="#94A3B8"/><circle cx="0" cy="-7" r="3" fill="#94A3B8"/><circle cx="11" cy="-7" r="3" fill="#94A3B8"/>
+  <rect x="-18" y="-52" width="36" height="38" rx="10" fill="currentColor"/>
+  <circle cx="0" cy="-34" r="6" fill="#0B1220"/>
+  <circle cx="0" cy="-34" r="3" fill="#67E8F9"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0" dur="0.8s" repeatCount="indefinite"/>
+    <rect x="-29" y="-80" width="6" height="14" rx="3" fill="currentColor"/>
+    <rect x="23" y="-80" width="6" height="14" rx="3" fill="currentColor"/>
+    <rect x="-24" y="-92" width="48" height="38" rx="14" fill="currentColor"/>
+    <rect x="-18" y="-86" width="36" height="26" rx="10" fill="#0B1220"/>
+    <ellipse cx="-7" cy="-74" rx="3.5" ry="4" fill="#67E8F9"><animate attributeName="ry" values="4;4;0.6;4" keyTimes="0;0.9;0.95;1" dur="3.6s" begin="1.4s" repeatCount="indefinite"/></ellipse><ellipse cx="7" cy="-74" rx="3.5" ry="4" fill="#67E8F9"><animate attributeName="ry" values="4;4;0.6;4" keyTimes="0;0.9;0.95;1" dur="3.6s" begin="1.4s" repeatCount="indefinite"/></ellipse>
+    <path d="M-5 -66 Q0 -62 5 -66" stroke="#67E8F9" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <line x1="0" y1="-92" x2="0" y2="-102" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="0" cy="-105" r="4" fill="#FBBF24"><animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- desk -->
+  <rect x="24" y="-34" width="176" height="6" rx="3" fill="#94A3B8"/>
+  <rect x="32" y="-28" width="5" height="28" fill="#94A3B8" fill-opacity="0.6"/>
+  <rect x="188" y="-28" width="5" height="28" fill="#94A3B8" fill-opacity="0.6"/>
+  <rect x="28" y="-38" width="46" height="4" rx="2" fill="#475569"/>
+  <!-- monitor -->
+  <rect x="126" y="-48" width="12" height="11" fill="#94A3B8"/>
+  <rect x="112" y="-37" width="40" height="3" rx="1.5" fill="#94A3B8"/>
+  <rect x="82" y="-120" width="100" height="72" rx="7" fill="#0B1220" stroke="currentColor" stroke-width="2.5"/>
+  <circle cx="92" cy="-114" r="1.8" fill="#F87171"/><circle cx="98" cy="-114" r="1.8" fill="#FBBF24"/><circle cx="104" cy="-114" r="1.8" fill="#34D399"/>
+  <g clip-path="url(#clip2)"><g transform="translate(90,-104)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -45" dur="3s" repeatCount="indefinite"/>
+      <rect x="0" y="0" width="70" height="4" rx="2" fill="#A78BFA"/>
+      <rect x="10" y="9" width="32" height="4" rx="2" fill="#22D3EE"/>
+      <rect x="10" y="18" width="56" height="4" rx="2" fill="#FBBF24"/>
+      <rect x="0" y="27" width="44" height="4" rx="2" fill="#34D399"/>
+      <rect x="10" y="36" width="62" height="4" rx="2" fill="#F472B6"/>
+      <rect x="0" y="45" width="70" height="4" rx="2" fill="#A78BFA"/>
+      <rect x="10" y="54" width="32" height="4" rx="2" fill="#22D3EE"/>
+      <rect x="10" y="63" width="56" height="4" rx="2" fill="#FBBF24"/>
+      <rect x="0" y="72" width="44" height="4" rx="2" fill="#34D399"/>
+      <rect x="10" y="81" width="62" height="4" rx="2" fill="#F472B6"/>
+      <rect x="0" y="90" width="70" height="4" rx="2" fill="#A78BFA"/>
+      <rect x="10" y="99" width="32" height="4" rx="2" fill="#22D3EE"/>
+      <rect x="10" y="108" width="56" height="4" rx="2" fill="#FBBF24"/>
+      <rect x="0" y="117" width="44" height="4" rx="2" fill="#34D399"/>
+      <rect x="10" y="126" width="62" height="4" rx="2" fill="#F472B6"/>
+  </g></g></g>
+  <!-- mug -->
+  <rect x="187" y="-46" width="10" height="12" rx="2" fill="#F59E0B"/>
+  <path d="M197 -43 q4 0 0 6" stroke="#F59E0B" stroke-width="1.6" fill="none"/>
+  <path d="M190 -50 q-3 -4 0 -8" stroke="#94A3B8" stroke-width="1.3" fill="none" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite"/></path>
+  <path d="M194 -50 q-3 -4 0 -8" stroke="#94A3B8" stroke-width="1.3" fill="none" opacity="0"><animate attributeName="opacity" values="0;0.8;0" dur="2s" begin="0.9s" repeatCount="indefinite"/></path>
+  <!-- typing arms -->
+  <line x1="16" y1="-42" x2="42" y2="-40" stroke="currentColor" stroke-width="7" stroke-linecap="round"><animate attributeName="y2" values="-40;-45;-40" dur="0.4s" repeatCount="indefinite"/></line>
+  <line x1="16" y1="-34" x2="58" y2="-40" stroke="currentColor" stroke-width="7" stroke-linecap="round"><animate attributeName="y2" values="-40;-45;-40" dur="0.4s" begin="0.2s" repeatCount="indefinite"/></line>
+  <!-- floating code symbols -->
+  <text x="118" y="-126" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="currentColor" opacity="0">&lt;/&gt;
+    <animate attributeName="opacity" values="0;0.9;0" dur="3s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -18" dur="3s" repeatCount="indefinite"/></text>
+  <text x="152" y="-126" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="12" font-weight="700" fill="currentColor" opacity="0">{ }
+    <animate attributeName="opacity" values="0;0.9;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -18" dur="3s" begin="1.5s" repeatCount="indefinite"/></text>
+  <g opacity="1">
+  <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.45;0.5;1" dur="8s" begin="-5.3s" repeatCount="indefinite"/>
+  <rect x="-52.0" y="-148" width="124" height="24" rx="12" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.7"/>
+  <path d="M4 -125 L10 -117 L16 -125 Z" fill="#A78BFA" fill-opacity="0.45"/>
+  <text x="10" y="-132" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#7C3AED">learning React</text>
+</g>
+  <g opacity="0">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5;0.55;0.95;1" dur="8s" begin="-5.3s" repeatCount="indefinite"/>
+  <rect x="-48.5" y="-148" width="117" height="24" rx="12" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.7"/>
+  <path d="M4 -125 L10 -117 L16 -125 Z" fill="#A78BFA" fill-opacity="0.45"/>
+  <text x="10" y="-132" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="11.5" font-weight="700" fill="#7C3AED">building MERN</text>
+</g>
+</g>
+  <g transform="translate(0,204)"><g>
+    <animateTransform attributeName="transform" type="translate" values="-40 0;840 0" dur="18s" begin="-4s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -1;0 0" dur="0.3s" repeatCount="indefinite"/>
+      <line x1="-6" y1="-3" x2="-6" y2="1" stroke="#1F2937" stroke-width="1.6" stroke-linecap="round"><animate attributeName="x2" values="-9;-3;-9" dur="0.3s" begin="0.0s" repeatCount="indefinite"/></line><line x1="0" y1="-3" x2="0" y2="1" stroke="#1F2937" stroke-width="1.6" stroke-linecap="round"><animate attributeName="x2" values="-3;3;-3" dur="0.3s" begin="0.1s" repeatCount="indefinite"/></line><line x1="6" y1="-3" x2="6" y2="1" stroke="#1F2937" stroke-width="1.6" stroke-linecap="round"><animate attributeName="x2" values="3;9;3" dur="0.3s" begin="0.2s" repeatCount="indefinite"/></line>
+      <ellipse cx="0" cy="-8" rx="10" ry="7" fill="#F87171"/>
+      <path d="M0 -15 V -1" stroke="#7F1D1D" stroke-width="1" opacity="0.6"/>
+      <circle cx="-4" cy="-10" r="1.6" fill="#7F1D1D"/><circle cx="4" cy="-6" r="1.6" fill="#7F1D1D"/>
+      <circle cx="11" cy="-8" r="4.5" fill="#1F2937"/><circle cx="12.5" cy="-9.5" r="1.2" fill="#fff"/>
+      <path d="M13 -12 q2 -5 6 -5" stroke="#1F2937" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+    </g></g></g>
+  <g transform="translate(0,204)"><g>
+    <animateTransform attributeName="transform" type="translate" values="840 0;-40 0" dur="24s" begin="-10s" repeatCount="indefinite"/>
+    <g transform="scale(-1 1)"><g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -1;0 0" dur="0.3s" repeatCount="indefinite"/>
+      <line x1="-6" y1="-3" x2="-6" y2="1" stroke="#1F2937" stroke-width="1.6" stroke-linecap="round"><animate attributeName="x2" values="-9;-3;-9" dur="0.3s" begin="0.0s" repeatCount="indefinite"/></line><line x1="0" y1="-3" x2="0" y2="1" stroke="#1F2937" stroke-width="1.6" stroke-linecap="round"><animate attributeName="x2" values="-3;3;-3" dur="0.3s" begin="0.1s" repeatCount="indefinite"/></line><line x1="6" y1="-3" x2="6" y2="1" stroke="#1F2937" stroke-width="1.6" stroke-linecap="round"><animate attributeName="x2" values="3;9;3" dur="0.3s" begin="0.2s" repeatCount="indefinite"/></line>
+      <ellipse cx="0" cy="-8" rx="10" ry="7" fill="#FB923C"/>
+      <path d="M0 -15 V -1" stroke="#7F1D1D" stroke-width="1" opacity="0.6"/>
+      <circle cx="-4" cy="-10" r="1.6" fill="#7F1D1D"/><circle cx="4" cy="-6" r="1.6" fill="#7F1D1D"/>
+      <circle cx="11" cy="-8" r="4.5" fill="#1F2937"/><circle cx="12.5" cy="-9.5" r="1.2" fill="#fff"/>
+      <path d="M13 -12 q2 -5 6 -5" stroke="#1F2937" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+    </g></g></g></g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowMWYxNDBiYi1hNGM1LTRiZWItYjJlMy03ZjhkMGQ5YTgyYzgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHbwvg9K2jL4+fuWz5eAkwUAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2MzU1MDJjMi0wYzc5LTQ3ZDEtYTMxMS1mY2E5YTMxMTY2OWFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoTrnekTjNWbNS7mt0Qlb52AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggSFY4swjs1M8I1PRE9dL43560r+6Lvla7Mg6bnSjjMG2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAPJu0OmirW7wJQsJvrkZ4cAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIDzsdReBT68hiGSuWz9B8CXkIxx5P0ngRdbyGHr3emGnZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GVtnZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjAxZjE0MGJiLWE0YzUtNGJlYi1iMmUzLTdmOGQwZDlhODJjOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmRiMTA5ZWY4LTg3M2ItNDYwZS1iODg0LWEzMjQzYjQzN2Q3NHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBIVjizCOzUzwjU9ET10vjfnrSv7ou+VrsyDpudKOMwbaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg31cmODD2TcG+J5qxGta+02U5dHXA8q5ArdVghWpu/g+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggfbYBe87eBIXwai6Q7ZWH801lSO3ixVTNBRfCViQgbA50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHB9O9c9mGUl/Qki9p8w2SLTPTbLl6CrY/iTLsblnxQaRpfrGw+Ug4pEAPJuCvpSXn7YBxfb+zdrafhqyOhPlcQ=</c2pa:manifest></metadata></svg>
