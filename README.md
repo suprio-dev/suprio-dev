@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,45:14243D,75:164E63,100:080D1A&height=12&section=header" width="100%" alt="Blue gradient divider">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,45:14243D,75:164E63,100:22D3EE&height=140&section=header" width="100%" alt="Animated wave header">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/dark.svg">
@@ -15,6 +15,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=0369A1&center=true&vCenter=true&width=560&height=40&lines=%24+Hello%2C+I'm+Suprio+Adhikary;%24+Aspiring+MERN+Stack+Developer;%24+Currently+Learning+React;%24+Building.+Learning.+Shipping.">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=%24+Hello%2C+I'm+Suprio+Adhikary;%24+Aspiring+MERN+Stack+Developer;%24+Currently+Learning+React;%24+Building.+Learning.+Shipping." alt="Developer introduction">
 </picture>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/status.svg" width="260" alt="Open to collaboration">
 
 <br><br>
 
@@ -32,12 +36,25 @@
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=suprio-dev&label=Profile+Views&style=for-the-badge&color=0F766E" alt="Profile views">
+
+<br><br>
+
 <a href="#console"><kbd>&nbsp;Console&nbsp;</kbd></a>
 <a href="#stack"><kbd>&nbsp;Stack&nbsp;</kbd></a>
+<a href="#skilltree"><kbd>&nbsp;Skill Tree&nbsp;</kbd></a>
 <a href="#devops"><kbd>&nbsp;DevOps&nbsp;</kbd></a>
 <a href="#workspace"><kbd>&nbsp;Workspace&nbsp;</kbd></a>
 <a href="#stats"><kbd>&nbsp;Stats&nbsp;</kbd></a>
 <a href="#connect"><kbd>&nbsp;Connect&nbsp;</kbd></a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/marquee.svg" width="100%" alt="Scrolling tech stack">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/bots.svg" width="100%" alt="Coding bots typing away while bugs crawl by">
 
 </div>
 
@@ -85,6 +102,10 @@ I believe in understanding the logic behind a feature rather than simply making 
 
 <br>
 
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
+
+<br>
+
 <a id="stack"></a>
 
 ## Technology Stack
@@ -123,6 +144,26 @@ I believe in understanding the logic behind a feature rather than simply making 
 <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube">
 
 </div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
+
+<br>
+
+<a id="skilltree"></a>
+
+## Skill Tree
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/skill-tree.svg" width="100%" alt="Animated skill tree from HTML and CSS through React and MERN to DevOps">
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
 
 <br>
 
@@ -178,7 +219,17 @@ Kubernetes · Monitoring
 
 <img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws,kubernetes&theme=dark" alt="Linux Docker GitHub Actions AWS Kubernetes">
 
+<br><br>
+
+**Git Workflow, in Motion**
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/git-tree.svg" width="100%" alt="Animated git branch tree: feature branches merging into develop and main">
+
 </div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
 
 <br>
 
@@ -230,7 +281,17 @@ I enjoy building features step by step, experimenting with ideas, debugging my o
 
 **Think → Build → Debug → Improve → Ship**
 
+<br><br>
+
+**The Project Structure I'm Growing Towards**
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/folder-tree.svg" width="85%" alt="Animated MERN project folder tree">
+
 </div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
 
 <br>
 
@@ -285,11 +346,31 @@ I enjoy building features step by step, experimenting with ideas, debugging my o
 
 <br>
 
-### Contribution Activity
+### Activity Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suprio-dev&bg_color=080D1A&color=22D3EE&line=22D3EE&point=E2E8F0&area=true&area_color=22D3EE&hide_border=true&radius=12&hide_title=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suprio-dev&bg_color=F5F9FC&color=0369A1&line=0891B2&point=1E293B&area=true&area_color=0891B2&hide_border=true&radius=12&hide_title=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suprio-dev&bg_color=080D1A&color=22D3EE&line=22D3EE&point=E2E8F0&area=true&area_color=22D3EE&hide_border=true&radius=12&hide_title=true" width="100%" alt="GitHub activity graph">
+</picture>
+
+<br><br>
+
+### Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=suprio-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" width="100%" alt="GitHub trophies">
+
+<br><br>
+
+### Contribution Snake
 
 <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake">
 
 </div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
 
 <br>
 
@@ -342,6 +423,10 @@ If I do it twice, I'll script it.
 
 <br>
 
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
+
+<br>
+
 <a id="connect"></a>
 
 ## Let's Connect
@@ -384,10 +469,14 @@ I'm always interested in connecting with fellow developers, contributing to open
 
 <br>
 
-*Learning every day. Building with purpose.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&height=30&lines=Learning+every+day.;Building+with+purpose.;Let's+build+something+together.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=0369A1&center=true&vCenter=true&width=520&height=30&lines=Learning+every+day.;Building+with+purpose.;Let's+build+something+together.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&height=30&lines=Learning+every+day.;Building+with+purpose.;Let's+build+something+together." alt="Closing line">
+</picture>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,45:14243D,75:164E63,100:080D1A&height=12&section=footer" width="100%" alt="Blue gradient divider">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,45:14243D,75:164E63,100:22D3EE&height=120&section=footer" width="100%" alt="Animated wave footer">
 
 </div>
