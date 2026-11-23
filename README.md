@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/suprio-header.svg" width="100%" alt="Animated header" />
+<img src="./suprio-header.svg" width="100%" alt="Animated header"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/dark.svg">
@@ -296,6 +296,6 @@ I'm always interested in connecting with fellow developers, contributing to open
 
 <br>
 
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/suprio-footer.svg" width="100%" alt="Animated footer" />
+<img src="./suprio-footer.svg" width="100%" alt="Animated footer"/>
 
 </div>
