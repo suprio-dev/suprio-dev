@@ -167,64 +167,19 @@ I enjoy building features step by step, experimenting with ideas, debugging my o
 
 <div align="center">
 
-### Contribution Streak
-
-<table width="85%">
-<tr>
-<td align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=suprio-dev&hide_border=true&background=080D1A&ring=22D3EE&fire=67E8F9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=94A3B8">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=suprio-dev&hide_border=true&background=F5F9FC&ring=0891B2&fire=0891B2&currStreakNum=1E293B&sideNums=1E293B&currStreakLabel=0369A1&sideLabels=0369A1&dates=64748B">
-  <img src="https://streak-stats.demolab.com/?user=suprio-dev&hide_border=true&background=080D1A&ring=22D3EE&fire=67E8F9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=94A3B8" width="100%" alt="GitHub contribution streak">
-</picture>
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-streak.svg" width="100%" alt="Total contributions, current streak and longest streak">
 
 <br>
 
-### GitHub Overview
-
-<table width="85%">
-<tr>
-<td align="center" width="50%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=12&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&icon_color=67E8F9&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=12&bg_color=F5F9FC&title_color=0369A1&text_color=1E293B&icon_color=0F766E&include_all_commits=true">
-  <img src="https://github-readme-stats-mu-dusky-69.vercel.app/api?username=suprio-dev&show_icons=true&hide_rank=true&hide_border=true&border_radius=12&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&icon_color=67E8F9&include_all_commits=true" width="100%" alt="GitHub statistics">
-</picture>
-
-</td>
-<td align="center" width="50%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=12&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&langs_count=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=12&bg_color=F5F9FC&title_color=0369A1&text_color=1E293B&langs_count=5">
-  <img src="https://github-readme-stats-mu-dusky-69.vercel.app/api/top-langs/?username=suprio-dev&layout=compact&hide_border=true&border_radius=12&bg_color=080D1A&title_color=22D3EE&text_color=E2E8F0&langs_count=5" width="100%" alt="Top programming languages">
-</picture>
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-overview.svg" width="100%" alt="GitHub overview and top languages">
 
 <br>
 
-### Activity Graph
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-heatmap.svg" width="100%" alt="Animated contribution heatmap for the last year">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suprio-dev&bg_color=080D1A&color=22D3EE&line=22D3EE&point=E2E8F0&area=true&area_color=22D3EE&hide_border=true&radius=12&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=suprio-dev&bg_color=F5F9FC&color=0369A1&line=0891B2&point=1E293B&area=true&area_color=0891B2&hide_border=true&radius=12&hide_title=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suprio-dev&bg_color=080D1A&color=22D3EE&line=22D3EE&point=E2E8F0&area=true&area_color=22D3EE&hide_border=true&radius=12&hide_title=true" width="100%" alt="GitHub activity graph">
-</picture>
+<br>
 
-<br><br>
-
-### Contribution Snake
-
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-runner.svg" width="100%" alt="Contribution graph of the last 90 days with a bot running along it, collecting the best days">
 
 </div>
 
