@@ -196,43 +196,25 @@ I enjoy building features step by step, experimenting with ideas, debugging my o
 
 <div align="center">
 
-<table width="85%">
-<tr>
-<td align="center">
-
-### Open to Collaboration
-
-I'm always interested in connecting with fellow developers, contributing to open source, learning from the community, and building meaningful projects together.
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/connect.svg" width="85%" alt="Open to Collaboration. I'm always interested in connecting with fellow developers, contributing to open source, learning from the community, and building meaningful projects together. Currently interested in: Open Source, Collaboration, Learning Together.">
 
 <br>
 
-**Currently interested in**
-
-`Open Source` &nbsp; `Collaboration` &nbsp; `Learning Together`
-
-<br>
-
-<a href="mailto:suprioadhikary802@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
-</a>
+<a href="mailto:suprioadhikary802@gmail.com"><img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/contact-btn.svg" width="190" alt="Email me"></a>
 
 <br><br>
 
-<a href="https://github.com/suprio-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub" title="GitHub"></a>
+<a href="https://github.com/suprio-dev"><img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/social-github.svg" width="52" alt="GitHub" title="GitHub"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42" alt="LinkedIn" title="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/suprio-adhikary-7a0a263b0"><img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/social-linkedin.svg" width="52" alt="LinkedIn" title="LinkedIn"></a>
 &nbsp;
-<a href="https://www.instagram.com/suprioadhikary_07"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="42" alt="Instagram" title="Instagram"></a>
+<a href="https://www.instagram.com/suprioadhikary_07"><img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/social-instagram.svg" width="52" alt="Instagram" title="Instagram"></a>
 &nbsp;
-<a href="https://x.com/suprio_a84633"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="42" alt="X" title="X"></a>
+<a href="https://x.com/suprio_a84633"><img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/social-x.svg" width="52" alt="X" title="X"></a>
 &nbsp;
-<a href="mailto:suprioadhikary802@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="42" alt="Email"></a>
+<a href="mailto:suprioadhikary802@gmail.com"><img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/social-gmail.svg" width="52" alt="Email" title="Email"></a>
 
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&height=30&lines=Learning+every+day.;Building+with+purpose.;Let's+build+something+together.">
