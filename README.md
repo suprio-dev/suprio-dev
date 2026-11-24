@@ -31,8 +31,8 @@
 <a href="#console"><kbd>&nbsp;Console&nbsp;</kbd></a>
 <a href="#stack"><kbd>&nbsp;Stack&nbsp;</kbd></a>
 <a href="#skilltree"><kbd>&nbsp;Skill Tree&nbsp;</kbd></a>
-<a href="#devops"><kbd>&nbsp;DevOps&nbsp;</kbd></a>
 <a href="#workspace"><kbd>&nbsp;Workspace&nbsp;</kbd></a>
+<a href="#devops"><kbd>&nbsp;DevOps&nbsp;</kbd></a>
 <a href="#stats"><kbd>&nbsp;Stats&nbsp;</kbd></a>
 <a href="#connect"><kbd>&nbsp;Connect&nbsp;</kbd></a>
 
@@ -48,6 +48,10 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
+
+<br>
+
 <a id="console"></a>
 
 ## Developer Console
@@ -56,6 +60,8 @@
 
 <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/console.svg" width="85%" alt="Developer console: Suprio Adhikary, Kolkata, B.Tech CSE. Learning React, building the MERN stack, exploring backend and DevOps.">
 
+<br>
+
 **Hello, World! 👋**
 
 I'm a computer science undergraduate who enjoys turning ideas into working projects and understanding how software works under the hood.
@@ -63,7 +69,6 @@ I'm a computer science undergraduate who enjoys turning ideas into working proje
 Currently, I'm learning **React** and strengthening my frontend development foundations. My next goal is to build full-stack applications with the MERN stack and gradually explore backend engineering and DevOps.
 
 I believe in understanding the logic behind a feature rather than simply making it work.
-
 
 </div>
 
@@ -79,7 +84,7 @@ I believe in understanding the logic behind a feature rather than simply making 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stack.svg" width="85%" alt="Tech stack: HTML, CSS, JavaScript, Tailwind, React, Node.js, Express, MongoDB, Java, C, Git, GitHub, Vite, npm, Bash, VS Code, plus AI-assisted tools GitHub Copilot, CodeRabbit, Sourcery and SonarQube">
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stack.svg" width="80%" alt="Tech stack: HTML, CSS, JavaScript, Tailwind, React, Node.js, Express, MongoDB, Java, C, Git, GitHub, Vite, npm, Bash, VS Code, plus AI-assisted tools GitHub Copilot, CodeRabbit, Sourcery and SonarQube">
 
 </div>
 
@@ -95,39 +100,7 @@ I believe in understanding the logic behind a feature rather than simply making 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/skill-tree.svg" width="100%" alt="Animated skill tree from HTML and CSS through React and MERN to DevOps">
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
-
-<br>
-
-<a id="devops"></a>
-
-## DevOps Path
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-light.svg">
-  <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-dark.svg" width="700" alt="DevOps pipeline">
-</picture>
-
-<br>
-
-**Upcoming Toolkit**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws,kubernetes&theme=dark" alt="Linux Docker GitHub Actions AWS Kubernetes">
-
-<br><br>
-
-**Git Workflow, in Motion**
-
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/git-tree.svg" width="100%" alt="Animated git branch tree: feature branches merging into develop and main">
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/skill-tree.svg" width="85%" alt="Animated skill tree from HTML and CSS through React and MERN to DevOps">
 
 </div>
 
@@ -161,23 +134,53 @@ I enjoy building features step by step, experimenting with ideas, debugging my o
 
 <br>
 
+<a id="devops"></a>
+
+## DevOps Path
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-light.svg">
+  <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-dark.svg" width="85%" alt="DevOps pipeline">
+</picture>
+
+<br><br>
+
+**Upcoming Toolkit**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws,kubernetes&theme=dark" alt="Linux Docker GitHub Actions AWS Kubernetes">
+
+<br><br>
+
+**Git Workflow, in Motion**
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/git-tree.svg" width="85%" alt="Animated git branch tree: feature branches merging into develop and main">
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
+
+<br>
+
 <a id="stats"></a>
 
 ## GitHub Contribution Log
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-streak.svg" width="100%" alt="Total contributions, current streak and longest streak">
-
-
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-streak.svg" width="85%" alt="Total contributions, current streak and longest streak">
 
 <br>
 
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-heatmap.svg" width="100%" alt="Animated contribution heatmap for the last year">
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-heatmap.svg" width="85%" alt="Animated contribution heatmap for the last year">
 
 <br>
 
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-runner.svg" width="100%" alt="Contribution graph of the last 90 days with a bot running along it, collecting the best days">
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-runner.svg" width="85%" alt="Contribution graph of the last 90 days with a bot running along it, collecting the best days">
 
 </div>
 
