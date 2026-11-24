@@ -169,9 +169,7 @@ I enjoy building features step by step, experimenting with ideas, debugging my o
 
 <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-streak.svg" width="100%" alt="Total contributions, current streak and longest streak">
 
-<br>
 
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/stats-overview.svg" width="100%" alt="GitHub overview and top languages">
 
 <br>
 
