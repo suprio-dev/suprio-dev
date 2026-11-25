@@ -134,40 +134,6 @@ I enjoy building features step by step, experimenting with ideas, debugging my o
 
 <br>
 
-<a id="devops"></a>
-
-## DevOps Path
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-light.svg">
-  <img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/pipeline-dark.svg" width="85%" alt="DevOps pipeline">
-</picture>
-
-<br><br>
-
-**Upcoming Toolkit**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws,kubernetes&theme=dark" alt="Linux Docker GitHub Actions AWS Kubernetes">
-
-<br><br>
-
-**Git Workflow, in Motion**
-
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/git-tree.svg" width="85%" alt="Animated git branch tree: feature branches merging into develop and main">
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/divider.svg" width="100%" alt="">
-
-<br>
-
-<a id="stats"></a>
-
 ## GitHub Contribution Log
 
 <div align="center">
