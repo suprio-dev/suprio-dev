@@ -32,7 +32,6 @@
 <a href="#stack"><kbd>&nbsp;Stack&nbsp;</kbd></a>
 <a href="#skilltree"><kbd>&nbsp;Skill Tree&nbsp;</kbd></a>
 <a href="#workspace"><kbd>&nbsp;Workspace&nbsp;</kbd></a>
-<a href="#devops"><kbd>&nbsp;DevOps&nbsp;</kbd></a>
 <a href="#stats"><kbd>&nbsp;Stats&nbsp;</kbd></a>
 <a href="#connect"><kbd>&nbsp;Connect&nbsp;</kbd></a>
 
