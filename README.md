@@ -31,7 +31,7 @@
 <a href="#console"><kbd>&nbsp;Console&nbsp;</kbd></a>
 <a href="#stack"><kbd>&nbsp;Stack&nbsp;</kbd></a>
 <a href="#skilltree"><kbd>&nbsp;Skill Tree&nbsp;</kbd></a>
-<a href="#workspace"><kbd>&nbsp;Workspace&nbsp;</kbd></a>
+<a href="#workspace"><kbd>&nbsp;Open Source&nbsp;</kbd></a>
 <a href="#stats"><kbd>&nbsp;Stats&nbsp;</kbd></a>
 <a href="#connect"><kbd>&nbsp;Connect&nbsp;</kbd></a>
 
@@ -111,19 +111,11 @@ I believe in understanding the logic behind a feature rather than simply making 
 
 <a id="workspace"></a>
 
-## Inside My Workspace
+## Open Source Journey
 
 <div align="center">
 
-I enjoy building features step by step, experimenting with ideas, debugging my own code, and learning from what doesn't work.
-
-**Think → Build → Debug → Improve → Ship**
-
-<br>
-
-**The Project Structure I'm Growing Towards**
-
-<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/folder-tree.svg" width="85%" alt="Animated MERN project folder tree">
+<img src="https://raw.githubusercontent.com/suprio-dev/suprio-dev/main/open-source-journey.svg" width="85%" alt="Open source journey">
 
 </div>
 
