@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="562" viewBox="0 0 800 562" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest">
+  <title id="t">Open source journey 2026 to 2027</title>
+  <desc id="d">Timeline: WOCS and SWoC are being contributed to now; ELUSOC and GSSoC are upcoming; Hacktoberfest is planned after GSSoC.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060B16"/><stop offset="1" stop-color="#0B1626"/></linearGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#22D3EE" opacity=".07"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+  text { font-family: JetBrains Mono, Consolas, Menlo, 'Courier New', monospace; }
+  /* ---- entrance (opacity only, so it never fights the transform attribute) ---- */
+  .entry { animation: rise .8s ease-out both; }
+  @keyframes rise { from { opacity: 0 } to { opacity: 1 } }
+
+  /* ---- every state graphic is present; the status class decides which one shows ---- */
+  .n-ring, .n-active, .n-upcoming, .n-planned, .n-done,
+  .lbl, .seg-glow, .dot-active, .dot-upcoming, .dot-planned, .dot-done, .flow { display: none; }
+
+  .s-active   .n-ring, .s-active   .n-active, .s-active   .lbl-active,   .s-active   .dot-active,   .s-active .flow { display: inline; }
+  .s-upcoming .n-upcoming, .s-upcoming .lbl-upcoming, .s-upcoming .dot-upcoming { display: inline; }
+  .s-planned  .n-planned,  .s-planned  .lbl-planned,  .s-planned  .dot-planned  { display: inline; }
+  .s-done     .n-done,     .s-done     .lbl-done,     .s-done     .dot-done     { display: inline; }
+
+  /* ---- node graphics ---- */
+  .n-active   { fill: #22D3EE; filter: url(#glow); }
+  .n-ring     { fill: none; stroke: #22D3EE; stroke-width: 1.6; transform-box: fill-box; transform-origin: center; animation: ring 2.4s ease-out infinite; }
+  .n-upcoming { fill: #080D1A; stroke: #5B7391; stroke-width: 1.8; }
+  .n-planned  { fill: #080D1A; stroke: #3A4A60; stroke-width: 1.6; stroke-dasharray: 2.2 2.2; }
+  .n-done     { fill: #34D399; }
+  .n-done-chk { fill: none; stroke: #07120D; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+  @keyframes ring { 0% { transform: scale(1); opacity: .8 } 100% { transform: scale(3); opacity: 0 } }
+
+  /* ---- rail segment that leads INTO each program ---- */
+  .seg-in { fill: none; stroke-width: 2; stroke-linecap: round; }
+  .s-active   .seg-in { stroke: #22D3EE; stroke-opacity: .95; }
+  .seg-glow { display: none; fill: none; stroke: #22D3EE; stroke-width: 8; stroke-opacity: .16; stroke-linecap: round; }
+  .s-active .seg-glow { display: inline; }
+  .s-done     .seg-in { stroke: #34D399; stroke-opacity: .9; }
+  .s-upcoming .seg-in { stroke: #3A4A60; stroke-dasharray: 3 6; animation: march 1.6s linear infinite; }
+  .s-planned  .seg-in { stroke: #2B394C; stroke-dasharray: 2 7; animation: march 1.6s linear infinite; }
+  .s-active + .s-upcoming .seg-in, .s-active + .s-planned .seg-in,
+  .s-done   + .s-upcoming .seg-in, .s-done   + .s-planned .seg-in { stroke: #22D3EE; stroke-opacity: .5; }
+  @keyframes march { to { stroke-dashoffset: -18 } }
+  .flow { fill: #A5F3FC; animation: flow 2.2s linear infinite; }
+  @keyframes flow { 0% { transform: translateY(calc(var(--d) * -1 + 9px)); opacity: 0 } 15% { opacity: 1 } 85% { opacity: 1 } 100% { transform: translateY(-9px); opacity: 0 } }
+
+  /* ---- text ---- */
+  .tick { stroke-width: 1; stroke: #1E2B40; }
+  .s-active .tick { stroke: #22D3EE; stroke-opacity: .35; }
+  .name    { font-size: 18px; font-weight: 800; }
+  .edition { font-size: 12px; font-weight: 600; }
+  .full    { font-size: 12.5px; }
+  .when-s  { font-size: 10px; letter-spacing: 2px; }
+  .when-y  { font-size: 12px; font-weight: 700; }
+  .lbl     { font-size: 11.5px; font-weight: 800; letter-spacing: 1.5px; }
+  .phase   { font-size: 11.5px; }
+
+  .s-active   .name { fill: #F1F5F9 } .s-active   .edition { fill: #22D3EE } .s-active   .full { fill: #94A3B8 } .s-active   .when-s { fill: #64748B } .s-active   .when-y { fill: #22D3EE }
+  .s-upcoming .name { fill: #CBD5E1 } .s-upcoming .edition { fill: #7C8DA6 } .s-upcoming .full { fill: #64748B } .s-upcoming .when-s { fill: #475569 } .s-upcoming .when-y { fill: #7C8DA6 }
+  .s-planned  .name { fill: #94A3B8 } .s-planned  .edition { fill: #64748B } .s-planned  .full { fill: #566377 } .s-planned  .when-s { fill: #3F4D61 } .s-planned  .when-y { fill: #64748B }
+  .s-done     .name { fill: #F1F5F9 } .s-done     .edition { fill: #34D399 } .s-done     .full { fill: #94A3B8 } .s-done     .when-s { fill: #64748B } .s-done     .when-y { fill: #34D399 }
+
+  .lbl-active { fill: #22D3EE } .lbl-upcoming { fill: #94A3B8 } .lbl-planned { fill: #64748B } .lbl-done { fill: #34D399 }
+  .dot-active   { fill: #22D3EE; animation: blink 1.6s ease-in-out infinite; }
+  .dot-upcoming { fill: none; stroke: #7C8DA6; stroke-width: 1.6; }
+  .dot-planned  { fill: none; stroke: #566377; stroke-width: 1.4; stroke-dasharray: 2 2; }
+  .dot-done     { fill: #34D399; }
+  @keyframes blink { 50% { opacity: .25 } }
+
+  /* ---- header / footer / mascots ---- */
+  .cursor { animation: blink 1s steps(1) infinite; }
+  .bob    { animation: bob 2.4s ease-in-out infinite; }
+  @keyframes bob { 50% { transform: translateY(-3px) } }
+  .eye    { transform-box: fill-box; transform-origin: center; animation: eye 3.6s infinite; }
+  @keyframes eye { 0%, 90%, 100% { transform: scaleY(1) } 94% { transform: scaleY(.1) } }
+  .legs   { animation: legs .3s ease-in-out infinite alternate; }
+  @keyframes legs { to { transform: translateY(-1px) } }
+  .bug    { animation: crawl 7s linear infinite; }
+  @keyframes crawl {
+    0%   { transform: translateX(120px); opacity: 1 }
+    52%  { transform: translateX(46px);  opacity: 1 }
+    56%  { transform: translateX(46px);  opacity: 1 }
+    58%  { transform: translateX(46px);  opacity: 0 }
+    100% { transform: translateX(46px);  opacity: 0 }
+  }
+  .beam   { opacity: 0; animation: beam 7s linear infinite; }
+  @keyframes beam { 0%, 52% { opacity: 0 } 53% { opacity: 1 } 57%, 100% { opacity: 0 } }
+  .pop    { opacity: 0; transform-box: fill-box; transform-origin: center; animation: pop 7s linear infinite; }
+  @keyframes pop { 0%, 55% { opacity: 0; transform: scale(.3) } 58% { opacity: 1; transform: scale(1) } 70%, 100% { opacity: 0; transform: scale(1.8) } }
+  .recoil { transform-box: fill-box; transform-origin: left center; animation: recoil 7s linear infinite; }
+  @keyframes recoil { 0%, 52% { transform: rotate(0) } 54% { transform: rotate(-14deg) } 60%, 100% { transform: rotate(0) } }
+</style>
+  </defs>
+
+  <!-- canvas -->
+  <rect x="1" y="1" width="798" height="560" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="798" height="560" rx="14" fill="url(#dots)"/>
+  <rect x="1" y="1" width="798" height="560" rx="14" fill="none" stroke="#22D3EE" stroke-opacity=".3" stroke-width="1.5"/>
+
+  <!-- header -->
+  <text x="28" y="36" font-size="13" font-weight="800" letter-spacing="3" fill="#22D3EE">OPEN SOURCE JOURNEY</text>
+  <text x="772" y="36" font-size="12" text-anchor="end" fill="#64748B">2026 → 2027</text>
+  <text x="28" y="58" font-size="11.5" fill="#475569">$ git log --graph --oneline<tspan class="cursor" fill="#22D3EE"> ▌</tspan></text>
+  <line x1="28" y1="72" x2="772" y2="72" stroke="#1B3350"/>
+
+  <!-- timeline: one <g class="entry s-STATUS"> per program -->
+  <g id="timeline">
+<!-- ===== WOCS  |  to change status: edit  s-active  in the class below ===== -->
+<g class="entry s-active" transform="translate(0,138)" style="--d:0px; animation-delay:0.50s">
+  <text class="phase" x="190" y="-36" fill="#22D3EE" fill-opacity=".8"># currently active</text>
+  <circle class="n-ring" cx="150" cy="0" r="6"/>
+  <circle class="n-active" cx="150" cy="0" r="6"/>
+  <circle class="n-upcoming" cx="150" cy="0" r="6"/>
+  <circle class="n-planned" cx="150" cy="0" r="5.5"/>
+  <circle class="n-done" cx="150" cy="0" r="7.5"/>
+  <path class="n-done n-done-chk" d="M146.6 0.2 l2.5 2.6 l4.6 -5.2"/>
+  <line class="tick" x1="164" y1="0" x2="178" y2="0"/>
+  <text class="when-s" x="116" y="-4" text-anchor="end">WINTER</text>
+  <text class="when-y" x="116" y="11" text-anchor="end">2026–27</text>
+  <text class="name" x="190" y="-3">WOCS<tspan class="edition" dx="12">2026–27 edition</tspan></text>
+  <text class="full" x="190" y="17">Winter of Code Season</text>
+  <text class="lbl lbl-active" x="756" y="1" text-anchor="end">CONTRIBUTING</text><text class="lbl lbl-upcoming" x="756" y="1" text-anchor="end">UPCOMING</text><text class="lbl lbl-planned" x="756" y="1" text-anchor="end">PLANNED</text><text class="lbl lbl-done" x="756" y="1" text-anchor="end">COMPLETED</text>
+  <circle class="dot-active" cx="770" cy="-3" r="3.6"/><circle class="dot-upcoming" cx="770" cy="-3" r="3.4"/><circle class="dot-planned" cx="770" cy="-3" r="3.4"/><circle class="dot-done" cx="770" cy="-3" r="3.6"/>
+</g>
+<!-- ===== SWoC  |  to change status: edit  s-active  in the class below ===== -->
+<g class="entry s-active" transform="translate(0,212)" style="--d:74px; animation-delay:0.72s">
+  <line class="seg-glow" x1="150" y1="-65" x2="150" y2="-9"/>
+  <line class="seg-in" x1="150" y1="-65" x2="150" y2="-9"/>
+  <circle class="flow" cx="150" cy="0" r="2.4"/>
+  <circle class="n-ring" cx="150" cy="0" r="6"/>
+  <circle class="n-active" cx="150" cy="0" r="6"/>
+  <circle class="n-upcoming" cx="150" cy="0" r="6"/>
+  <circle class="n-planned" cx="150" cy="0" r="5.5"/>
+  <circle class="n-done" cx="150" cy="0" r="7.5"/>
+  <path class="n-done n-done-chk" d="M146.6 0.2 l2.5 2.6 l4.6 -5.2"/>
+  <line class="tick" x1="164" y1="0" x2="178" y2="0"/>
+  <text class="when-s" x="116" y="-4" text-anchor="end">WINTER</text>
+  <text class="when-y" x="116" y="11" text-anchor="end">2026–27</text>
+  <text class="name" x="190" y="-3">SWoC<tspan class="edition" dx="12">2026–27 edition</tspan></text>
+  <text class="full" x="190" y="17">Social Winter of Code</text>
+  <text class="lbl lbl-active" x="756" y="1" text-anchor="end">CONTRIBUTING</text><text class="lbl lbl-upcoming" x="756" y="1" text-anchor="end">UPCOMING</text><text class="lbl lbl-planned" x="756" y="1" text-anchor="end">PLANNED</text><text class="lbl lbl-done" x="756" y="1" text-anchor="end">COMPLETED</text>
+  <circle class="dot-active" cx="770" cy="-3" r="3.6"/><circle class="dot-upcoming" cx="770" cy="-3" r="3.4"/><circle class="dot-planned" cx="770" cy="-3" r="3.4"/><circle class="dot-done" cx="770" cy="-3" r="3.6"/>
+</g>
+<!-- ===== ELUSOC  |  to change status: edit  s-upcoming  in the class below ===== -->
+<g class="entry s-upcoming" transform="translate(0,308)" style="--d:96px; animation-delay:0.94s">
+  <text class="phase" x="190" y="-36" fill="#64748B" fill-opacity=".8"># up next</text>
+  <line class="seg-glow" x1="150" y1="-87" x2="150" y2="-9"/>
+  <line class="seg-in" x1="150" y1="-87" x2="150" y2="-9"/>
+  <circle class="flow" cx="150" cy="0" r="2.4"/>
+  <circle class="n-ring" cx="150" cy="0" r="6"/>
+  <circle class="n-active" cx="150" cy="0" r="6"/>
+  <circle class="n-upcoming" cx="150" cy="0" r="6"/>
+  <circle class="n-planned" cx="150" cy="0" r="5.5"/>
+  <circle class="n-done" cx="150" cy="0" r="7.5"/>
+  <path class="n-done n-done-chk" d="M146.6 0.2 l2.5 2.6 l4.6 -5.2"/>
+  <line class="tick" x1="164" y1="0" x2="178" y2="0"/>
+  <text class="when-s" x="116" y="-4" text-anchor="end">SUMMER</text>
+  <text class="when-y" x="116" y="11" text-anchor="end">2027</text>
+  <text class="name" x="190" y="-3">ELUSOC<tspan class="edition" dx="12">2027 edition</tspan></text>
+  <text class="full" x="190" y="17">EduLinkUp Summer of Code</text>
+  <text class="lbl lbl-active" x="756" y="1" text-anchor="end">CONTRIBUTING</text><text class="lbl lbl-upcoming" x="756" y="1" text-anchor="end">UPCOMING</text><text class="lbl lbl-planned" x="756" y="1" text-anchor="end">PLANNED</text><text class="lbl lbl-done" x="756" y="1" text-anchor="end">COMPLETED</text>
+  <circle class="dot-active" cx="770" cy="-3" r="3.6"/><circle class="dot-upcoming" cx="770" cy="-3" r="3.4"/><circle class="dot-planned" cx="770" cy="-3" r="3.4"/><circle class="dot-done" cx="770" cy="-3" r="3.6"/>
+</g>
+<!-- ===== GSSoC  |  to change status: edit  s-upcoming  in the class below ===== -->
+<g class="entry s-upcoming" transform="translate(0,382)" style="--d:74px; animation-delay:1.16s">
+  <line class="seg-glow" x1="150" y1="-65" x2="150" y2="-9"/>
+  <line class="seg-in" x1="150" y1="-65" x2="150" y2="-9"/>
+  <circle class="flow" cx="150" cy="0" r="2.4"/>
+  <circle class="n-ring" cx="150" cy="0" r="6"/>
+  <circle class="n-active" cx="150" cy="0" r="6"/>
+  <circle class="n-upcoming" cx="150" cy="0" r="6"/>
+  <circle class="n-planned" cx="150" cy="0" r="5.5"/>
+  <circle class="n-done" cx="150" cy="0" r="7.5"/>
+  <path class="n-done n-done-chk" d="M146.6 0.2 l2.5 2.6 l4.6 -5.2"/>
+  <line class="tick" x1="164" y1="0" x2="178" y2="0"/>
+  <text class="when-s" x="116" y="-4" text-anchor="end">SUMMER</text>
+  <text class="when-y" x="116" y="11" text-anchor="end">2027</text>
+  <text class="name" x="190" y="-3">GSSoC<tspan class="edition" dx="12">2027 edition</tspan></text>
+  <text class="full" x="190" y="17">GirlScript Summer of Code</text>
+  <text class="lbl lbl-active" x="756" y="1" text-anchor="end">CONTRIBUTING</text><text class="lbl lbl-upcoming" x="756" y="1" text-anchor="end">UPCOMING</text><text class="lbl lbl-planned" x="756" y="1" text-anchor="end">PLANNED</text><text class="lbl lbl-done" x="756" y="1" text-anchor="end">COMPLETED</text>
+  <circle class="dot-active" cx="770" cy="-3" r="3.6"/><circle class="dot-upcoming" cx="770" cy="-3" r="3.4"/><circle class="dot-planned" cx="770" cy="-3" r="3.4"/><circle class="dot-done" cx="770" cy="-3" r="3.6"/>
+</g>
+<!-- ===== Hacktoberfest  |  to change status: edit  s-planned  in the class below ===== -->
+<g class="entry s-planned" transform="translate(0,456)" style="--d:74px; animation-delay:1.38s">
+  <line class="seg-glow" x1="150" y1="-65" x2="150" y2="-9"/>
+  <line class="seg-in" x1="150" y1="-65" x2="150" y2="-9"/>
+  <circle class="flow" cx="150" cy="0" r="2.4"/>
+  <circle class="n-ring" cx="150" cy="0" r="6"/>
+  <circle class="n-active" cx="150" cy="0" r="6"/>
+  <circle class="n-upcoming" cx="150" cy="0" r="6"/>
+  <circle class="n-planned" cx="150" cy="0" r="5.5"/>
+  <circle class="n-done" cx="150" cy="0" r="7.5"/>
+  <path class="n-done n-done-chk" d="M146.6 0.2 l2.5 2.6 l4.6 -5.2"/>
+  <line class="tick" x1="164" y1="0" x2="178" y2="0"/>
+  <text class="when-s" x="116" y="-4" text-anchor="end">OCTOBER</text>
+  <text class="when-y" x="116" y="11" text-anchor="end">2027</text>
+  <text class="name" x="190" y="-3">Hacktoberfest<tspan class="edition" dx="12">2027</tspan></text>
+  <text class="full" x="190" y="17">Planned after GSSoC</text>
+  <text class="lbl lbl-active" x="756" y="1" text-anchor="end">CONTRIBUTING</text><text class="lbl lbl-upcoming" x="756" y="1" text-anchor="end">UPCOMING</text><text class="lbl lbl-planned" x="756" y="1" text-anchor="end">PLANNED</text><text class="lbl lbl-done" x="756" y="1" text-anchor="end">COMPLETED</text>
+  <circle class="dot-active" cx="770" cy="-3" r="3.6"/><circle class="dot-upcoming" cx="770" cy="-3" r="3.4"/><circle class="dot-planned" cx="770" cy="-3" r="3.4"/><circle class="dot-done" cx="770" cy="-3" r="3.6"/>
+</g>
+  </g>
+
+  <!-- footer -->
+  <line x1="28" y1="512" x2="772" y2="512" stroke="#1B3350" stroke-dasharray="4 7"/>
+  
+  <!-- footer mascot scene: purely decorative -->
+  <g transform="translate(642,512) scale(0.42)" color="#22D3EE">
+    <ellipse cx="0" cy="1" rx="26" ry="3.5" fill="#000" fill-opacity=".3"/>
+    <rect x="-21" y="-14" width="42" height="14" rx="7" fill="#475569"/>
+    <circle cx="-11" cy="-7" r="3" fill="#94A3B8"/><circle cx="0" cy="-7" r="3" fill="#94A3B8"/><circle cx="11" cy="-7" r="3" fill="#94A3B8"/>
+    <line x1="-17" y1="-38" x2="-27" y2="-24" stroke="currentColor" stroke-width="7" stroke-linecap="round"/>
+    <rect x="-18" y="-52" width="36" height="38" rx="10" fill="currentColor"/>
+    <circle cx="0" cy="-34" r="6" fill="#0B1220"/><circle cx="0" cy="-34" r="3" fill="#67E8F9" class="cursor"/>
+    <g transform="translate(17,-40)"><g class="recoil"><line x1="0" y1="0" x2="24" y2="-2" stroke="currentColor" stroke-width="7" stroke-linecap="round"/>
+      <rect x="20" y="-7" width="16" height="9" rx="3" fill="#475569"/><rect x="34" y="-5" width="6" height="5" rx="1.5" fill="#94A3B8"/></g></g>
+    <g class="bob">
+      <rect x="-29" y="-80" width="6" height="14" rx="3" fill="currentColor"/><rect x="23" y="-80" width="6" height="14" rx="3" fill="currentColor"/>
+      <rect x="-24" y="-92" width="48" height="38" rx="14" fill="currentColor"/><rect x="-18" y="-86" width="36" height="26" rx="10" fill="#0B1220"/>
+      <ellipse class="eye" cx="-5" cy="-74" rx="3.5" ry="4" fill="#67E8F9"/><ellipse class="eye" cx="9" cy="-74" rx="3.5" ry="4" fill="#67E8F9"/>
+      <path d="M-3 -67 Q3 -63 9 -67" stroke="#67E8F9" stroke-width="2" fill="none" stroke-linecap="round"/>
+      <line x1="0" y1="-92" x2="0" y2="-102" stroke="currentColor" stroke-width="3" stroke-linecap="round"/><circle cx="0" cy="-105" r="4" fill="#FBBF24" class="cursor"/>
+    </g>
+  </g>
+  <line class="beam" x1="664" y1="494" x2="746" y2="504" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <circle class="pop" cx="746" cy="503" r="9" fill="none" stroke="#34D399" stroke-width="2"/>
+  <g transform="translate(702,512)"><g class="bug">
+    <g transform="scale(-1.1 1.1)"><g class="legs">
+      <line x1="-6" y1="-3" x2="-6" y2="1" stroke="#64748B" stroke-width="1.6" stroke-linecap="round"/><line x1="0" y1="-3" x2="0" y2="1" stroke="#64748B" stroke-width="1.6" stroke-linecap="round"/><line x1="6" y1="-3" x2="6" y2="1" stroke="#64748B" stroke-width="1.6" stroke-linecap="round"/>
+      <ellipse cx="0" cy="-8" rx="10" ry="7" fill="#FB923C"/><path d="M0 -15 V-1" stroke="#7F1D1D" stroke-width="1" opacity=".6"/>
+      <circle cx="-4" cy="-10" r="1.6" fill="#7F1D1D"/><circle cx="4" cy="-6" r="1.6" fill="#7F1D1D"/>
+      <circle cx="11" cy="-8" r="4.5" fill="#1F2937"/><circle cx="12.5" cy="-9.5" r="1.2" fill="#fff"/>
+      <path d="M13 -12 q2 -5 6 -5" stroke="#1F2937" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+    </g></g></g></g>
+  <circle cx="28" cy="542" r="3.6" fill="#22D3EE"/><text x="39" y="546" font-size="10.5" fill="#64748B">contributing</text><circle cx="150" cy="542" r="3.4" fill="none" stroke="#7C8DA6" stroke-width="1.6"/><text x="161" y="546" font-size="10.5" fill="#64748B">upcoming</text><circle cx="250" cy="542" r="3.4" fill="none" stroke="#566377" stroke-width="1.4" stroke-dasharray="2 2"/><text x="261" y="546" font-size="10.5" fill="#64748B">planned</text><circle cx="342" cy="542" r="3.6" fill="#34D399"/><text x="353" y="546" font-size="10.5" fill="#64748B">completed</text>
+  <text x="772" y="546" font-size="10.5" text-anchor="end" fill="#475569"># marked done only when it is actually done</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3NzhmNTVmOC1lZWZiLTQxYmMtYjc4NS03NzY2NDUxZmM0MzIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaM87QoHhIWpwH8nHHC0h8YAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5YTY0ZGE3MS0xNmI2LTQyNzEtODZhMy05MjdiNGJiZmRhOGVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoYIxbaoIXdd9TmHBNFJn/cwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggBWfzznisHi+Y6SgAYtdvOgy4yZroyX07VojlBiaNx1CkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPjKbM5jCLAyMS7MR98Tbm4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIHvioMz81NHlxS9MfW5Znzw1yxynGtSQwtt4WaE911RZZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GUsbZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc3OGY1NWY4LWVlZmItNDFiYy1iNzg1LTc3NjY0NTFmYzQzMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmJhYzU5YmUzLTAwZTctNGMyNi04OTkxLTQ0ODIzMTFiY2IwNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAFZ/POeKweL5jpKABi1286DLjJmujJfTtWiOUGJo3HUKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggHLwccILIwv/iDfUe/c1Z8unzKvLnDgeWLTIpMSbAB66iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggp5VEB5uZ85rsxMGOS8KOmUxbhwKV/JlaXhWmYiA+ITB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHt/Ztgm92+ASV5t0ZRW7lCZiWzDLi41VjFEHkpxoxhiObrIMMyamjrhc2+nRlnrkAaWn1MhGdO9nzJhKPJTMn4=</c2pa:manifest></metadata></svg>
